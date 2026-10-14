@@ -3,14 +3,14 @@
   "name": "852wa/JIZURA",
   "description": "歌詞から文字PVを自動で組み立てるブラウザアプリ",
   "language": "HTML",
-  "stars": 1883,
+  "stars": 1884,
   "created_at": "2026-09-23"
  },
  {
   "name": "ARahim3/DigUp",
   "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built on Google DeepMind's EmbeddingGemma 2.",
   "language": "Swift",
-  "stars": 3026,
+  "stars": 3052,
   "created_at": "2026-10-08"
  },
  {
@@ -24,7 +24,7 @@
   "name": "BlueHeisenberg/SCSKiller",
   "description": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.",
   "language": "C#",
-  "stars": 2704,
+  "stars": 2706,
   "created_at": "2026-09-29"
  },
  {
@@ -45,42 +45,42 @@
   "name": "CopilotKit/OpenDots",
   "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
   "language": "TypeScript",
-  "stars": 5252,
+  "stars": 5255,
   "created_at": "2026-09-29"
  },
  {
   "name": "CopilotKit/openmuse",
   "description": "A personal agent with a browser, terminal, files, and work that keeps going built with CopilotKit and AG-UI.",
   "language": "TypeScript",
-  "stars": 4970,
+  "stars": 4974,
   "created_at": "2026-09-15"
  },
  {
   "name": "Droid-Deck/DroidDeck",
   "description": "DroidDeck brings the SteamOS experience to Android",
   "language": "Kotlin",
-  "stars": 7858,
+  "stars": 7872,
   "created_at": "2026-09-24"
  },
  {
   "name": "Ebony-Vinyl/dsh-our-free-model",
   "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
   "language": "JavaScript",
-  "stars": 15113,
+  "stars": 15154,
   "created_at": "2026-09-24"
  },
  {
   "name": "Fei2411/DeepSeek-Bot",
   "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
   "language": "JavaScript",
-  "stars": 1804,
+  "stars": 1808,
   "created_at": "2026-10-07"
  },
  {
   "name": "Jakeschincariol/replica-skill",
   "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
   "language": "Python",
-  "stars": 2492,
+  "stars": 2494,
   "created_at": "2026-10-03"
  },
  {
@@ -94,28 +94,28 @@
   "name": "KKKKhazix/AIHOT",
   "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
   "language": "TypeScript",
-  "stars": 7601,
+  "stars": 7602,
   "created_at": "2026-09-28"
  },
  {
   "name": "KingKongRobotics/jumper",
   "description": "🦀 Jumper — an crab robot.",
   "language": "Python",
-  "stars": 2640,
+  "stars": 2641,
   "created_at": "2026-09-28"
  },
  {
   "name": "LoreanXavier/pt-pc",
   "description": "Native PC port of P.T. (runs from your own PS4 game files)",
   "language": "C++",
-  "stars": 1681,
+  "stars": 1682,
   "created_at": "2026-10-07"
  },
  {
   "name": "LosaLosSantos/aurelio-finance",
   "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
   "language": "Python",
-  "stars": 3379,
+  "stars": 3380,
   "created_at": "2026-10-06"
  },
  {
@@ -143,42 +143,42 @@
   "name": "NandhaKishorM/laya",
   "description": "Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per request.",
   "language": "Python",
-  "stars": 32835,
+  "stars": 32837,
   "created_at": "2026-09-18"
  },
  {
   "name": "Niko1221/Strata",
   "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
   "language": "C++",
-  "stars": 24125,
+  "stars": 24144,
   "created_at": "2026-09-24"
  },
  {
   "name": "NotProtonNot/NotProton",
   "description": "Steam Play for macOS",
   "language": "Scala",
-  "stars": 1567,
+  "stars": 1568,
   "created_at": "2026-09-23"
  },
  {
   "name": "OffGridPete/Fieldwatch",
   "description": "Receive-only Wi-Fi and Bluetooth LE observer for Android. MIT.",
   "language": "Kotlin",
-  "stars": 3717,
+  "stars": 3719,
   "created_at": "2026-09-15"
  },
  {
   "name": "Oldcircle/geo-sleuth",
   "description": "An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and street view — and shows its work. Works with Claude Code, Codex, Cursor, Gemini CLI, OpenCode and GitHub Copilot.",
   "language": "Python",
-  "stars": 2606,
+  "stars": 2625,
   "created_at": "2026-09-18"
  },
  {
   "name": "QingYunA/answer-me-with-html",
   "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
   "language": "JavaScript",
-  "stars": 3330,
+  "stars": 3331,
   "created_at": "2026-10-02"
  },
  {
@@ -206,21 +206,21 @@
   "name": "alchaincyf/huashu-art-motion",
   "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
   "language": "JavaScript",
-  "stars": 3920,
+  "stars": 3925,
   "created_at": "2026-10-06"
  },
  {
   "name": "alejandrobujan/tendedero",
   "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
   "language": "Swift",
-  "stars": 2147,
+  "stars": 2149,
   "created_at": "2026-10-07"
  },
  {
   "name": "anmolkapil/plexo",
   "description": "Speed up downloads by combining multiple network connections in parallel",
   "language": "TypeScript",
-  "stars": 4126,
+  "stars": 4129,
   "created_at": "2026-09-15"
  },
  {
@@ -234,14 +234,14 @@
   "name": "bherbruck/solidcraft",
   "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
   "language": "Rust",
-  "stars": 2030,
+  "stars": 2043,
   "created_at": "2026-10-07"
  },
  {
   "name": "bilawalsidhu/gods-eye-view",
   "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
   "language": "JavaScript",
-  "stars": 56057,
+  "stars": 56078,
   "stars_today": 1961,
   "trending": true
  },
@@ -249,21 +249,21 @@
   "name": "bilibili/Index-Translate",
   "description": "A Multilingual, Multimodal Translation Model Family",
   "language": "Python",
-  "stars": 1535,
+  "stars": 1537,
   "created_at": "2026-09-15"
  },
  {
   "name": "browser-use/jev-ultrafast",
   "description": "Fastest and cheapest web agent",
   "language": "Python",
-  "stars": 22869,
+  "stars": 22872,
   "created_at": "2026-09-16"
  },
  {
   "name": "cathrynlavery/diagram-design",
   "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
   "language": "HTML",
-  "stars": 54868,
+  "stars": 54901,
   "stars_today": 1815,
   "trending": true
  },
@@ -271,21 +271,21 @@
   "name": "cdyforever/how-to-live-better",
   "description": "《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线",
   "language": "HTML",
-  "stars": 11741,
+  "stars": 11750,
   "created_at": "2026-09-18"
  },
  {
   "name": "deadinside28/bloodborne_pc",
   "description": "",
   "language": "C++",
-  "stars": 2781,
+  "stars": 2783,
   "created_at": "2026-10-01"
  },
  {
   "name": "debpalash/VoiceStudio",
   "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
   "language": "Python",
-  "stars": 64610,
+  "stars": 64654,
   "stars_today": 1748,
   "trending": true
  },
@@ -300,7 +300,7 @@
   "name": "driceroland/Search",
   "description": "A small, fast WebKit browser for macOS, by Office Commun.",
   "language": "Swift",
-  "stars": 2526,
+  "stars": 2527,
   "created_at": "2026-09-20"
  },
  {
@@ -314,21 +314,21 @@
   "name": "edenfunf/reelmimic",
   "description": "Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and reviews it with you.",
   "language": "JavaScript",
-  "stars": 3003,
+  "stars": 3013,
   "created_at": "2026-09-28"
  },
  {
   "name": "egoist/mygo",
   "description": "Develop desktop apps with native UI or web frontend in Go",
   "language": "Go",
-  "stars": 1903,
+  "stars": 1907,
   "created_at": "2026-09-26"
  },
  {
   "name": "facebookincubator/muse-gadget-sdk",
   "description": "Open source SDK to build Muse gadgets",
   "language": "C",
-  "stars": 2150,
+  "stars": 2151,
   "created_at": "2026-10-02"
  },
  {
@@ -342,7 +342,7 @@
   "name": "feitangyuan/onetake",
   "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. Product launch films and feature demos, made with a coding agent.",
   "language": "Python",
-  "stars": 2336,
+  "stars": 2338,
   "created_at": "2026-09-26"
  },
  {
@@ -356,7 +356,7 @@
   "name": "jaredpalmer/kev",
   "description": "Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own",
   "language": "Python",
-  "stars": 9100,
+  "stars": 9101,
   "created_at": "2026-09-17"
  },
  {
@@ -370,14 +370,14 @@
   "name": "jev-chat/jev-chat-jarvis",
   "description": "The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill in with one tap. You press send. Android · Windows · macOS · iOS | 聊天辅助决策工具：先看懂对方再回复，发不发由你。",
   "language": "Kotlin",
-  "stars": 7733,
+  "stars": 7734,
   "created_at": "2026-09-21"
  },
  {
   "name": "kaankiziltug/logo-design-skill",
   "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
   "language": "HTML",
-  "stars": 3253,
+  "stars": 3254,
   "created_at": "2026-09-26"
  },
  {
@@ -391,28 +391,28 @@
   "name": "lemomo-ai/lemo-opuscar",
   "description": "Claude Code skill for short films with no video model: 43 film styles, each a style prompt plus a demo film made entirely in code by Claude Opus 5.5 (incl. OPUSCAR 98). By Lemomo. · Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
   "language": "JavaScript",
-  "stars": 2255,
+  "stars": 2260,
   "created_at": "2026-09-26"
  },
  {
   "name": "liseami/CCBaga",
   "description": "",
   "language": "Rust",
-  "stars": 2183,
+  "stars": 2187,
   "created_at": "2026-10-11"
  },
  {
   "name": "lucasmarkes/hairline",
   "description": "Six isometric line figures that answer the pointer. For React and for anything with a DOM.",
   "language": "TypeScript",
-  "stars": 1942,
+  "stars": 1945,
   "created_at": "2026-10-01"
  },
  {
   "name": "lyogavin/airllm",
   "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
   "language": "Jupyter Notebook",
-  "stars": 38573,
+  "stars": 38584,
   "stars_today": 1001,
   "trending": true
  },
@@ -427,14 +427,14 @@
   "name": "mexicat/pdoom-video",
   "description": "Code-rendered music video for \"I'm Upping My P(doom)\"",
   "language": "TypeScript",
-  "stars": 2740,
+  "stars": 2743,
   "created_at": "2026-09-24"
  },
  {
   "name": "mhtsec/ARTEX",
   "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
   "language": "Go",
-  "stars": 4001,
+  "stars": 4009,
   "created_at": "2026-10-08"
  },
  {
@@ -448,14 +448,14 @@
   "name": "mizorewww/laya-mlx",
   "description": "Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.",
   "language": "Python",
-  "stars": 6920,
+  "stars": 6921,
   "created_at": "2026-09-19"
  },
  {
   "name": "mksglu/context-mode",
   "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
   "language": "TypeScript",
-  "stars": 28623,
+  "stars": 28637,
   "stars_today": 969,
   "trending": true
  },
@@ -463,7 +463,7 @@
   "name": "morluto/rea",
   "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
   "language": "TypeScript",
-  "stars": 223099,
+  "stars": 223760,
   "stars_today": 54679,
   "trending": true
  },
@@ -478,28 +478,28 @@
   "name": "newliver666/apk-reverse",
   "description": "Suitable for Android APK reverse engineering analysis",
   "language": "Python",
-  "stars": 4220,
+  "stars": 4224,
   "created_at": "2026-09-19"
  },
  {
   "name": "noahdunnagan/fsearch",
   "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
   "language": "Rust",
-  "stars": 2039,
+  "stars": 2038,
   "created_at": "2026-10-08"
  },
  {
   "name": "ntfargo/Relapse-Exploit",
   "description": "Exploit chain for PS5 7.00 - 13.60",
   "language": "JavaScript",
-  "stars": 2133,
+  "stars": 2136,
   "created_at": "2026-09-17"
  },
  {
   "name": "nullmoth/nvidia-macos-driver",
   "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
   "language": "Rust",
-  "stars": 2944,
+  "stars": 2946,
   "created_at": "2026-10-07"
  },
  {
@@ -513,28 +513,28 @@
   "name": "omlahore/RemoveMacAI",
   "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
   "language": "Swift",
-  "stars": 4649,
+  "stars": 4652,
   "created_at": "2026-09-29"
  },
  {
   "name": "omnirush-ai/omnirush-gui",
   "description": "A desktop coding agent with free access to frontier models.",
   "language": "TypeScript",
-  "stars": 3332,
+  "stars": 3335,
   "created_at": "2026-09-21"
  },
  {
   "name": "onehumanbeing/esp32-iphone-agent",
   "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
   "language": "Python",
-  "stars": 1847,
+  "stars": 1863,
   "created_at": "2026-10-11"
  },
  {
   "name": "openai/math",
   "description": "",
   "language": "Lean",
-  "stars": 14738,
+  "stars": 14740,
   "created_at": "2026-10-06"
  },
  {
@@ -548,42 +548,42 @@
   "name": "rehan-remade/universal-modder",
   "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
   "language": "Python",
-  "stars": 7509,
+  "stars": 7514,
   "created_at": "2026-09-30"
  },
  {
   "name": "robbietilton/Compositor",
   "description": "The Photoshop alternative for Mac",
   "language": "Swift",
-  "stars": 16831,
+  "stars": 16833,
   "created_at": "2026-09-16"
  },
  {
   "name": "shadany7824/playgta5",
   "description": "A source code for playgta5.com.",
   "language": "JavaScript",
-  "stars": 1579,
+  "stars": 1580,
   "created_at": "2026-10-07"
  },
  {
   "name": "shader-effects-inc/shaders",
   "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
   "language": "TypeScript",
-  "stars": 4818,
+  "stars": 4821,
   "created_at": "2026-09-29"
  },
  {
   "name": "shihabal3amri/DiPlay",
   "description": "Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.",
   "language": "Kotlin",
-  "stars": 10472,
+  "stars": 10479,
   "created_at": "2026-09-24"
  },
  {
   "name": "storytold/artcraft",
   "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
   "language": "Rust",
-  "stars": 26798,
+  "stars": 26837,
   "stars_today": 4081,
   "trending": true
  },
@@ -591,70 +591,70 @@
   "name": "storytold/cadcraft",
   "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
   "language": "Rust",
-  "stars": 4468,
+  "stars": 4475,
   "created_at": "2026-10-07"
  },
  {
   "name": "storytold/craft-launcher",
   "description": "The Craft App Launcher",
   "language": "Rust",
-  "stars": 2457,
+  "stars": 2462,
   "created_at": "2026-10-09"
  },
  {
   "name": "storytold/deckcraft",
   "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
   "language": "Rust",
-  "stars": 3084,
+  "stars": 3088,
   "created_at": "2026-10-07"
  },
  {
   "name": "storytold/designcraft",
   "description": "DesignCraft: An open-source page and layout design editor written by scratch in pure Rust",
   "language": "Rust",
-  "stars": 3788,
+  "stars": 3791,
   "created_at": "2026-10-01"
  },
  {
   "name": "storytold/effectcraft",
   "description": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
   "language": "Rust",
-  "stars": 6362,
+  "stars": 6366,
   "created_at": "2026-10-01"
  },
  {
   "name": "storytold/filmcraft",
   "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
   "language": "Rust",
-  "stars": 12839,
+  "stars": 12848,
   "created_at": "2026-09-30"
  },
  {
   "name": "storytold/gridcraft",
   "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
   "language": "Rust",
-  "stars": 4614,
+  "stars": 4617,
   "created_at": "2026-10-07"
  },
  {
   "name": "storytold/lightcraft",
   "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
   "language": "Rust",
-  "stars": 12219,
+  "stars": 12234,
   "created_at": "2026-09-30"
  },
  {
   "name": "storytold/pdfcraft",
   "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
   "language": "Rust",
-  "stars": 13177,
+  "stars": 13191,
   "created_at": "2026-09-30"
  },
  {
   "name": "storytold/photocraft",
   "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
   "language": "Rust",
-  "stars": 59299,
+  "stars": 59356,
   "created_at": "2026-09-30"
  },
  {
@@ -668,14 +668,14 @@
   "name": "storytold/vectorcraft",
   "description": "VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
   "language": "Rust",
-  "stars": 8648,
+  "stars": 8654,
   "created_at": "2026-09-30"
  },
  {
   "name": "storytold/wordcraft",
   "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
   "language": "Rust",
-  "stars": 11756,
+  "stars": 11777,
   "created_at": "2026-10-07"
  },
  {
@@ -710,7 +710,7 @@
   "name": "vercel-labs/skills",
   "description": "The open agent skills tool - npx skills",
   "language": "TypeScript",
-  "stars": 34802,
+  "stars": 34806,
   "stars_today": 190,
   "trending": true
  },
@@ -718,21 +718,21 @@
   "name": "wheresryan22/anatomy",
   "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
   "language": "JavaScript",
-  "stars": 8880,
+  "stars": 8906,
   "created_at": "2026-10-08"
  },
  {
   "name": "wy51ai/floorplan-3d",
   "description": "",
   "language": "HTML",
-  "stars": 2248,
+  "stars": 2249,
   "created_at": "2026-09-29"
  },
  {
   "name": "xtool-org/xtool",
   "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
   "language": "Swift",
-  "stars": 9951,
+  "stars": 9968,
   "stars_today": 1198,
   "trending": true
  },
@@ -740,7 +740,7 @@
   "name": "yetone/magpie",
   "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
   "language": "Go",
-  "stars": 12311,
+  "stars": 12343,
   "created_at": "2026-09-23"
  },
  {
@@ -754,21 +754,21 @@
   "name": "yihui-dev/awesome-opus5-5-videos",
   "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
   "language": "",
-  "stars": 4920,
+  "stars": 4926,
   "created_at": "2026-09-27"
  },
  {
   "name": "zai-org/ZCode",
   "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
   "language": "TypeScript",
-  "stars": 7802,
+  "stars": 7803,
   "created_at": "2026-09-20"
  },
  {
   "name": "zhongerxin/iPhone-use",
   "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
   "language": "Python",
-  "stars": 3661,
+  "stars": 3665,
   "created_at": "2026-10-06"
  }
 ]
