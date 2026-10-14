@@ -29,7 +29,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ repos.csv
+          git add -A data/ overall.csv monthly.csv
           git diff --cached --quiet || git commit -m "digest $(date -u +%F)"
           git pull --rebase -q
           git push
