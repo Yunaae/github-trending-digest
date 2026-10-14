@@ -8,6 +8,9 @@ Weekly email of the GitHub repos gaining stars fastest. Free: runs on GitHub Act
   - 🚀 New & rising fast: repos < 30 days old (top 10)
   - Max 2 repos per owner, to stop one account flooding the list.
 
+- **Ledger** `ledger.py` rebuilds `repos.csv` after each run: one row per repo ever seen (stars now, first/last seen, days trending, weeks in digest, best week gain, total gained). Weekly picks are logged in `data/digests/`.
+- **Live Google Sheet:** cell A1 `=IMPORTDATA("https://raw.githubusercontent.com/Yunaae/github-trending-digest/main/repos.csv")` (refreshes about hourly; needs this repo to be public).
+
 Descriptions are the repos' own GitHub descriptions (v1). Next step could be README summaries via a Claude Code routine on the Max plan.
 
 ## Setup

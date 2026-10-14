@@ -141,6 +141,12 @@ def main():
     send(f"GitHub weekly trends: {dt.date.today():%d %b %Y}", body)
     print("Digest sent")
 
+    # Log what was featured, for ledger.py's "weeks_in_digest" column.
+    log = DATA_DIR / "digests" / f"{dt.date.today().isoformat()}.json"
+    log.parent.mkdir(exist_ok=True)
+    keep = ("name", "gain", "stars", "description", "language", "created_at")
+    log.write_text(json.dumps([{k: r[k] for k in keep if k in r} for r in gainers + risers], indent=1, ensure_ascii=False), encoding="utf-8")
+
 
 if __name__ == "__main__":
     main()
