@@ -124,7 +124,7 @@ def send(subject, body):
     msg["From"] = os.environ["SMTP_USER"]
     msg["To"] = os.environ["EMAIL_TO"]
     msg.attach(MIMEText(body, "html", "utf-8"))
-    with smtplib.SMTP(os.getenv("SMTP_HOST", "smtp.gmail.com"), int(os.getenv("SMTP_PORT", "587"))) as s:
+    with smtplib.SMTP(os.getenv("SMTP_HOST") or "smtp.gmail.com", int(os.getenv("SMTP_PORT") or 587)) as s:
         s.starttls()
         s.login(os.environ["SMTP_USER"], os.environ["SMTP_PASSWORD"])
         s.sendmail(msg["From"], msg["To"].split(","), msg.as_string())
