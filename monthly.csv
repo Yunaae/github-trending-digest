@@ -1,26 +1,26 @@
 Month,Rank,Project,Made by,What it does,Language,Stars gained this month,Total stars,Link
 October 2026,1,rea,morluto,"Reverse engineer anything with agents, from app behavior down to native binaries.",TypeScript,114535,281412,https://github.com/morluto/rea
-October 2026,2,math,openai,(no description),Lean,14990,14990,https://github.com/openai/math
-October 2026,3,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,13444,13444,https://github.com/wheresryan22/anatomy
-October 2026,4,wordcraft,storytold,"An open-source, clean-room reimplementation of Microsoft Word in pure Rust",Rust,13421,13421,https://github.com/storytold/wordcraft
-October 2026,5,VoiceStudio,debpalash,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing,…",Python,10109,69947,https://github.com/debpalash/VoiceStudio
-October 2026,6,effectcraft,storytold,EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust,Rust,6910,6910,https://github.com/storytold/effectcraft
-October 2026,7,ARTEX,mhtsec,AI 自主渗透测试系统,Go,4368,4368,https://github.com/mhtsec/ARTEX
-October 2026,8,iFixAi,ifixai-ai,"Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI…",Python,4252,28077,https://github.com/ifixai-ai/iFixAi
-October 2026,9,DigUp,ARahim3,"Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac,…",Swift,4200,4200,https://github.com/ARahim3/DigUp
-October 2026,10,huashu-art-motion,alchaincyf,艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。,JavaScript,4105,4105,https://github.com/alchaincyf/huashu-art-motion
-October 2026,11,iPhone-use,zhongerxin,让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。,Python,3942,3942,https://github.com/zhongerxin/iPhone-use
-October 2026,12,aurelio-finance,LosaLosSantos,"Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts…",Python,3897,3897,https://github.com/LosaLosSantos/aurelio-finance
-October 2026,13,answer-me-with-html,QingYunA,Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent…,JavaScript,3499,3499,https://github.com/QingYunA/answer-me-with-html
-October 2026,14,d2r-mobile,jhaizhou-ops,Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs…,C,3411,3411,https://github.com/jhaizhou-ops/d2r-mobile
-October 2026,15,ghidra,NationalSecurityAgency,Ghidra is a software reverse engineering (SRE) framework,Java,3379,89227,https://github.com/NationalSecurityAgency/ghidra
-October 2026,16,nvidia-macos-driver,nullmoth,Metal driver for NVIDIA GeForce cards on macOS Sequoia,Rust,3192,3192,https://github.com/nullmoth/nvidia-macos-driver
-October 2026,17,dsh-our-free-model,Ebony-Vinyl,在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this…,JavaScript,3140,18648,https://github.com/Ebony-Vinyl/dsh-our-free-model
-October 2026,18,xtool,xtool-org,"Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",Swift,3012,11363,https://github.com/xtool-org/xtool
-October 2026,19,bloodborne_pc,deadinside28,(no description),C++,2987,2987,https://github.com/deadinside28/bloodborne_pc
-October 2026,20,solidcraft,bherbruck,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,2890,2890,https://github.com/bherbruck/solidcraft
-October 2026,21,pentagi,vxcontrol,Fully autonomous AI Agents system capable of performing complex penetration testing tasks,Go,2844,30198,https://github.com/vxcontrol/pentagi
-October 2026,22,replica-skill,Jakeschincariol,"Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its…",Python,2803,2803,https://github.com/Jakeschincariol/replica-skill
-October 2026,23,context-mode,mksglu,"Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and…",TypeScript,2797,29974,https://github.com/mksglu/context-mode
-October 2026,24,omdrop-owl,t4t5,airdrop for non-apple devices,Shell,2766,2766,https://github.com/t4t5/omdrop-owl
-October 2026,25,esp32-iphone-agent,onehumanbeing,"Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No…",C,2728,2728,https://github.com/onehumanbeing/esp32-iphone-agent
+October 2026,2,math,openai,(no description),Lean,15061,15061,https://github.com/openai/math
+October 2026,3,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,14396,14396,https://github.com/wheresryan22/anatomy
+October 2026,4,wordcraft,storytold,"An open-source, clean-room reimplementation of Microsoft Word in pure Rust",Rust,13797,13797,https://github.com/storytold/wordcraft
+October 2026,5,VoiceStudio,debpalash,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing,…",Python,12410,71971,https://github.com/debpalash/VoiceStudio
+October 2026,6,effectcraft,storytold,EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust,Rust,7065,7065,https://github.com/storytold/effectcraft
+October 2026,7,dsh-our-free-model,Ebony-Vinyl,在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this…,JavaScript,4833,20341,https://github.com/Ebony-Vinyl/dsh-our-free-model
+October 2026,8,DigUp,ARahim3,"Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac,…",Swift,4409,4409,https://github.com/ARahim3/DigUp
+October 2026,9,ARTEX,mhtsec,AI 自主渗透测试系统,Go,4368,4368,https://github.com/mhtsec/ARTEX
+October 2026,10,iFixAi,ifixai-ai,"Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI…",Python,4252,28077,https://github.com/ifixai-ai/iFixAi
+October 2026,11,huashu-art-motion,alchaincyf,艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。,JavaScript,4180,4180,https://github.com/alchaincyf/huashu-art-motion
+October 2026,12,iPhone-use,zhongerxin,让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。,Python,4025,4025,https://github.com/zhongerxin/iPhone-use
+October 2026,13,aurelio-finance,LosaLosSantos,"Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts…",Python,3948,3948,https://github.com/LosaLosSantos/aurelio-finance
+October 2026,14,d2r-mobile,jhaizhou-ops,Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs…,C,3605,3605,https://github.com/jhaizhou-ops/d2r-mobile
+October 2026,15,answer-me-with-html,QingYunA,Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent…,JavaScript,3543,3543,https://github.com/QingYunA/answer-me-with-html
+October 2026,16,ghidra,NationalSecurityAgency,Ghidra is a software reverse engineering (SRE) framework,Java,3379,89227,https://github.com/NationalSecurityAgency/ghidra
+October 2026,17,nvidia-macos-driver,nullmoth,Metal driver for NVIDIA GeForce cards on macOS Sequoia,Rust,3276,3276,https://github.com/nullmoth/nvidia-macos-driver
+October 2026,18,solidcraft,tangency-labs,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,3275,3275,https://github.com/tangency-labs/solidcraft
+October 2026,19,context-mode,mksglu,"Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and…",TypeScript,3246,30374,https://github.com/mksglu/context-mode
+October 2026,20,bloodborne_pc,deadinside28,(no description),C++,3065,3065,https://github.com/deadinside28/bloodborne_pc
+October 2026,21,xtool,xtool-org,"Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",Swift,3012,11363,https://github.com/xtool-org/xtool
+October 2026,22,replica-skill,Jakeschincariol,"Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its…",Python,2991,2991,https://github.com/Jakeschincariol/replica-skill
+October 2026,23,esp32-iphone-agent,onehumanbeing,"Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No…",C,2932,2932,https://github.com/onehumanbeing/esp32-iphone-agent
+October 2026,24,scientific-agent-skills,K-Dense-AI,"Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide.…",Python,2907,51837,https://github.com/K-Dense-AI/scientific-agent-skills
+October 2026,25,solidcraft,bherbruck,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,2890,2890,https://github.com/bherbruck/solidcraft
