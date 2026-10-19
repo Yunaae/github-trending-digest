@@ -1,0 +1,190 @@
+[
+ {
+  "name": "morluto/rea",
+  "gain": 229268,
+  "stars": 332113,
+  "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+  "language": "TypeScript"
+ },
+ {
+  "name": "debpalash/VoiceStudio",
+  "gain": 16569,
+  "stars": 76850,
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python"
+ },
+ {
+  "name": "storytold/artcraft",
+  "gain": 16379,
+  "stars": 33379,
+  "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+  "language": "Rust"
+ },
+ {
+  "name": "boykopovar/AnyPS5",
+  "gain": 14224,
+  "stars": 43947,
+  "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+  "language": "C++"
+ },
+ {
+  "name": "Ebony-Vinyl/dsh-our-free-model",
+  "gain": 11156,
+  "stars": 26664,
+  "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+  "language": "JavaScript",
+  "created_at": "2026-09-24"
+ },
+ {
+  "name": "storytold/photocraft",
+  "gain": 8216,
+  "stars": 68002,
+  "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+  "language": "Rust",
+  "created_at": "2026-09-30"
+ },
+ {
+  "name": "cathrynlavery/diagram-design",
+  "gain": 7901,
+  "stars": 58182,
+  "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+  "language": "HTML"
+ },
+ {
+  "name": "NationalSecurityAgency/ghidra",
+  "gain": 7602,
+  "stars": 91337,
+  "description": "Ghidra is a software reverse engineering (SRE) framework",
+  "language": "Java"
+ },
+ {
+  "name": "wheresryan22/anatomy",
+  "gain": 7321,
+  "stars": 16511,
+  "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+  "language": "JavaScript",
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "google-research/harness2",
+  "gain": 6849,
+  "stars": 9320,
+  "language": "Python",
+  "created_at": "2026-10-06"
+ },
+ {
+  "name": "MadsLorentzen/ai-job-search",
+  "gain": 6151,
+  "stars": 55754,
+  "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+  "language": "Python"
+ },
+ {
+  "name": "heygen-com/hyperframes",
+  "gain": 5883,
+  "stars": 67316,
+  "description": "Write HTML. Render video. Built for agents.",
+  "language": "TypeScript"
+ },
+ {
+  "name": "anthropics/claude-plugins-official",
+  "gain": 4774,
+  "stars": 43074,
+  "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+  "language": "Python"
+ },
+ {
+  "name": "K-Dense-AI/scientific-agent-skills",
+  "gain": 4310,
+  "stars": 52838,
+  "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+  "language": "Python"
+ },
+ {
+  "name": "ifixai-ai/iFixAi",
+  "gain": 4252,
+  "stars": 28077,
+  "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+  "language": "Python"
+ },
+ {
+  "name": "yetone/magpie",
+  "gain": 4185,
+  "stars": 16676,
+  "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+  "language": "Go",
+  "created_at": "2026-09-23"
+ },
+ {
+  "name": "jhaizhou-ops/d2r-mobile",
+  "gain": 3992,
+  "stars": 3992,
+  "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层",
+  "language": "C",
+  "created_at": "2026-10-12"
+ },
+ {
+  "name": "Niko1221/Strata",
+  "gain": 3582,
+  "stars": 27836,
+  "description": "Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine, OpenAI/Anthropic API on localhost, optional image input.",
+  "language": "C++",
+  "created_at": "2026-09-24"
+ },
+ {
+  "name": "Gathin23/cleanyourtv",
+  "gain": 3332,
+  "stars": 3332,
+  "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+  "language": "Java",
+  "created_at": "2026-10-17"
+ },
+ {
+  "name": "Arekejoker/qwen21-nsfw-pose-skill",
+  "gain": 3270,
+  "stars": 3270,
+  "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+  "language": "Python",
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "Droid-Deck/DroidDeck",
+  "gain": 3164,
+  "stars": 11156,
+  "description": "DroidDeck brings the SteamOS experience to Android",
+  "language": "Kotlin",
+  "created_at": "2026-09-24"
+ },
+ {
+  "name": "tangency-labs/solidcraft",
+  "gain": 3148,
+  "stars": 6423,
+  "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+  "language": "Rust",
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "feder-cr/git-ai",
+  "gain": 2370,
+  "stars": 2370,
+  "description": "Git designed for AI agents.",
+  "language": "Go",
+  "created_at": "2026-10-15"
+ },
+ {
+  "name": "KnifeLemon/Filee",
+  "gain": 2357,
+  "stars": 5465,
+  "description": "Free, open-source file converter. Convert 244+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+  "language": "C#",
+  "created_at": "2026-09-29"
+ },
+ {
+  "name": "HeyPuter/everything",
+  "gain": 2272,
+  "stars": 2272,
+  "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+  "language": "JavaScript",
+  "created_at": "2026-10-13"
+ }
+]

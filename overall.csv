@@ -1,101 +1,101 @@
 Rank,Project,Made by,What it does,Language,Total stars,Stars gained since first spotted,Times in weekly email,First spotted,Link
-1,rea,morluto,"Reverse engineer anything with agents, from app behavior down to native binaries.",TypeScript,281412,114535,0,2026-10-14,https://github.com/morluto/rea
-2,VoiceStudio,debpalash,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing,…",Python,74052,14535,0,2026-10-14,https://github.com/debpalash/VoiceStudio
-3,dsh-our-free-model,Ebony-Vinyl,在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this…,JavaScript,26664,11156,0,2026-10-14,https://github.com/Ebony-Vinyl/dsh-our-free-model
-4,photocraft,storytold,"PhotoCraft: An open-source, photo editor written by scratch in pure Rust",Rust,68002,8216,0,2026-10-14,https://github.com/storytold/photocraft
-5,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,16511,7321,0,2026-10-14,https://github.com/wheresryan22/anatomy
-6,harness2,google-research,(no description),Python,9320,6849,0,2026-10-18,https://github.com/google-research/harness2
-7,ai-job-search,MadsLorentzen,"The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor…",Python,55173,6151,0,2026-10-17,https://github.com/MadsLorentzen/ai-job-search
-8,iFixAi,ifixai-ai,"Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI…",Python,28077,4252,0,2026-10-14,https://github.com/ifixai-ai/iFixAi
-9,magpie,yetone,"Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",Go,16676,4185,0,2026-10-14,https://github.com/yetone/magpie
-10,Strata,Niko1221,"Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine,…",C++,27836,3582,0,2026-10-14,https://github.com/Niko1221/Strata
-11,scientific-agent-skills,K-Dense-AI,"Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide.…",Python,52510,3580,0,2026-10-14,https://github.com/K-Dense-AI/scientific-agent-skills
-12,xerj,xerj-org,XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the…,Rust,8099,3523,0,2026-10-16,https://github.com/xerj-org/xerj
-13,ghidra,NationalSecurityAgency,Ghidra is a software reverse engineering (SRE) framework,Java,89227,3379,0,2026-10-14,https://github.com/NationalSecurityAgency/ghidra
-14,claude-plugins-official,anthropics,"Official, Anthropic-managed directory of high quality Claude Code Plugins.",Python,42198,3256,0,2026-10-16,https://github.com/anthropics/claude-plugins-official
-15,context-mode,mksglu,"Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and…",TypeScript,30374,3246,0,2026-10-14,https://github.com/mksglu/context-mode
-16,ECC,affaan-m,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development…",JavaScript,282874,3215,0,2026-10-16,https://github.com/affaan-m/ECC
-17,DroidDeck,Droid-Deck,DroidDeck brings the SteamOS experience to Android,Kotlin,11156,3164,0,2026-10-14,https://github.com/Droid-Deck/DroidDeck
-18,solidcraft,tangency-labs,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,6423,3148,0,2026-10-17,https://github.com/tangency-labs/solidcraft
-19,xtool,xtool-org,"Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",Swift,11363,3012,0,2026-10-14,https://github.com/xtool-org/xtool
-20,pentagi,vxcontrol,Fully autonomous AI Agents system capable of performing complex penetration testing tasks,Go,30198,2844,0,2026-10-14,https://github.com/vxcontrol/pentagi
-21,pdfcraft,storytold,PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust,Rust,16091,2775,0,2026-10-14,https://github.com/storytold/pdfcraft
-22,CLI-Anything,HKUDS,"""CLI-Anything: Making ALL Software Agent-Native"" -- CLI-Hub:https://clianything.cc/",Python,54914,2705,0,2026-10-14,https://github.com/HKUDS/CLI-Anything
-23,orca,stablyai,"Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own…",TypeScript,97477,2421,0,2026-10-18,https://github.com/stablyai/orca
-24,Filee,KnifeLemon,"Free, open-source file converter. Convert 244+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint,…",C#,5465,2357,0,2026-10-18,https://github.com/KnifeLemon/Filee
-25,d2r-mobile,jhaizhou-ops,Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs…,C,3992,2285,0,2026-10-14,https://github.com/jhaizhou-ops/d2r-mobile
-26,ruflo,ruvnet,"🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build…",TypeScript,76829,1803,0,2026-10-16,https://github.com/ruvnet/ruflo
-27,opencode,anomalyco,The open source coding agent.,TypeScript,217152,1748,0,2026-10-18,https://github.com/anomalyco/opencode
-28,DigUp,ARahim3,"Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac,…",Swift,4889,1674,0,2026-10-14,https://github.com/ARahim3/DigUp
-29,qwen21-nsfw-pose-skill,Arekejoker,Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw,Python,3270,1588,0,2026-10-15,https://github.com/Arekejoker/qwen21-nsfw-pose-skill
-30,superpowers,obra,An agentic skills framework & software development methodology that works.,Shell,300910,1555,0,2026-10-16,https://github.com/obra/superpowers
-31,awesome-opus5-5-videos,yihui-dev,A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to…,—,6437,1475,0,2026-10-14,https://github.com/yihui-dev/awesome-opus5-5-videos
-32,sill,Saffsanity,"Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no…",Swift,3515,1351,0,2026-10-16,https://github.com/Saffsanity/sill
-33,esp32-iphone-agent,onehumanbeing,"Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No…",C,3233,1270,0,2026-10-14,https://github.com/onehumanbeing/esp32-iphone-agent
-34,lemo-opuscar,lemomo-ai,"Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film made…",JavaScript,3495,1207,0,2026-10-14,https://github.com/lemomo-ai/lemo-opuscar
-35,dsh-ops,T-Auto,"A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少…",JavaScript,3210,1193,0,2026-10-15,https://github.com/T-Auto/dsh-ops
-36,DiPlay,shihabal3amri,Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.,Kotlin,11613,1085,0,2026-10-14,https://github.com/shihabal3amri/DiPlay
-37,ComfyUI,Comfy-Org,"The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",Python,139126,1011,0,2026-10-19,https://github.com/Comfy-Org/ComfyUI
-38,LibreTV,LibreSpark,一分钟搭建影视站，支持Docker等部署方式,TypeScript,18580,978,0,2026-10-16,https://github.com/LibreSpark/LibreTV
-39,replica-skill,Jakeschincariol,"Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its…",Python,3470,951,0,2026-10-14,https://github.com/Jakeschincariol/replica-skill
-40,ai-memory,akitaonrails,Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors,Rust,10837,844,0,2026-10-18,https://github.com/akitaonrails/ai-memory
-41,universal-modder,rehan-remade,"Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon,…",Python,8396,840,0,2026-10-14,https://github.com/rehan-remade/universal-modder
-42,solidcraft,bherbruck,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,2890,762,0,2026-10-14,https://github.com/bherbruck/solidcraft
-43,DeepSeek-Bot,Fei2411,"A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",JavaScript,2549,724,0,2026-10-14,https://github.com/Fei2411/DeepSeek-Bot
-44,apk-reverse,newliver666,Suitable for Android APK reverse engineering analysis,Python,4935,691,0,2026-10-14,https://github.com/newliver666/apk-reverse
-45,solid-glass,deeplethe,"A design system for AI applications. Material, physical, tactile, technical.",TypeScript,2270,649,0,2026-10-17,https://github.com/deeplethe/solid-glass
-46,aurelio-finance,LosaLosSantos,"Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts…",Python,3969,598,0,2026-10-14,https://github.com/LosaLosSantos/aurelio-finance
-47,iPhone-use,zhongerxin,让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。,Python,4277,585,0,2026-10-14,https://github.com/zhongerxin/iPhone-use
-48,reelmimic,edenfunf,"Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and…",JavaScript,3651,577,0,2026-10-14,https://github.com/edenfunf/reelmimic
-49,LinkSwift,hmjz100,一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘,JavaScript,24170,538,0,2026-10-17,https://github.com/hmjz100/LinkSwift
-50,how-to-live-better,cdyforever,《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线,HTML,12317,524,0,2026-10-14,https://github.com/cdyforever/how-to-live-better
-51,huashu-art-motion,alchaincyf,艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。,JavaScript,4460,514,0,2026-10-14,https://github.com/alchaincyf/huashu-art-motion
-52,jasna,Kruk2,Video restoration tool,Python,2694,502,0,2026-10-19,https://github.com/Kruk2/jasna
-53,bloodborne_pc,deadinside28,(no description),C++,3290,492,0,2026-10-14,https://github.com/deadinside28/bloodborne_pc
-54,CCBaga,liseami,(no description),Rust,2703,489,0,2026-10-14,https://github.com/liseami/CCBaga
-55,answer-me-with-html,QingYunA,Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent…,JavaScript,3813,471,0,2026-10-14,https://github.com/QingYunA/answer-me-with-html
-56,nvidia-macos-driver,nullmoth,Metal driver for NVIDIA GeForce cards on macOS Sequoia,Rust,3427,467,0,2026-10-14,https://github.com/nullmoth/nvidia-macos-driver
-57,geo-sleuth,Oldcircle,"An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and…",Python,3151,452,0,2026-10-14,https://github.com/Oldcircle/geo-sleuth
-58,logo-design-skill,kaankiziltug,"A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft,…",HTML,3730,452,0,2026-10-14,https://github.com/kaankiziltug/logo-design-skill
-59,mygo,egoist,Develop desktop apps with native UI or web frontend in Go,Go,2358,440,0,2026-10-14,https://github.com/egoist/mygo
-60,math,openai,(no description),Lean,15199,440,0,2026-10-14,https://github.com/openai/math
-61,AIHOT,KKKKhazix,一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。,TypeScript,8061,438,0,2026-10-14,https://github.com/KKKKhazix/AIHOT
-62,caveman,JuliusBrussee,🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking…,Go,112931,433,0,2026-10-16,https://github.com/JuliusBrussee/caveman
-63,os-taxonomy,withmarbleapp,(no description),JavaScript,5845,427,0,2026-10-19,https://github.com/withmarbleapp/os-taxonomy
-64,rust,rust-lang,Empowering everyone to build reliable and efficient software.,Rust,120257,412,0,2026-10-14,https://github.com/rust-lang/rust
-65,hairline,lucasmarkes,Six isometric line figures that answer the pointer. For React and for anything with a DOM.,TypeScript,2348,395,0,2026-10-14,https://github.com/lucasmarkes/hairline
-66,coucou,Louis-CFM,"A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex,…",Swift,5557,393,0,2026-10-14,https://github.com/Louis-CFM/coucou
-67,everything,HeyPuter,We're rebuilding and open-sourcing the world’s software from scratch.,JavaScript,2272,391,0,2026-10-17,https://github.com/HeyPuter/everything
-68,skills,android,(no description),Kotlin,8576,391,0,2026-10-17,https://github.com/android/skills
-69,tiny11builder,ntdevlabs,"WinUI app for building smaller, customized Windows 11 images.",C#,20430,381,0,2026-10-14,https://github.com/ntdevlabs/tiny11builder
-70,laya,NandhaKishorM,"Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward…",Python,33215,355,0,2026-10-14,https://github.com/NandhaKishorM/laya
-71,Kronos,shiyu-coder,Kronos: A Foundation Model for the Language of Financial Markets,Python,41309,355,0,2026-10-19,https://github.com/shiyu-coder/Kronos
-72,claude-code,anthropics,"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster…",TypeScript,152347,346,0,2026-10-18,https://github.com/anthropics/claude-code
-73,ARTEX,mhtsec,AI 自主渗透测试系统,Go,4368,341,0,2026-10-14,https://github.com/mhtsec/ARTEX
-74,onetake,feitangyuan,"Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera,…",Python,2686,336,0,2026-10-14,https://github.com/feitangyuan/onetake
-75,awesome-decomp-games,SubmitGame,"Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports,…",Python,1902,334,0,2026-10-18,https://github.com/SubmitGame/awesome-decomp-games
-76,SCSKiller,BlueHeisenberg,Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of…,C#,3057,333,0,2026-10-14,https://github.com/BlueHeisenberg/SCSKiller
-77,manimgx,academa-labs,"The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core.",Python,1855,327,0,2026-10-16,https://github.com/academa-labs/manimgx
-78,folkbench,Folkbench,"AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",Rust,1928,325,0,2026-10-18,https://github.com/Folkbench/folkbench
-79,OpenDots,CopilotKit,"Your always-on AI coworkers that move between text, calls, and Slack.",TypeScript,5592,318,0,2026-10-14,https://github.com/CopilotKit/OpenDots
-80,headroom,headroomlabs-ai,"Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents,…",Python,75970,317,0,2026-10-19,https://github.com/headroomlabs-ai/headroom
-81,RemoveMacAI,omlahore,"Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be…",Swift,4980,314,0,2026-10-14,https://github.com/omlahore/RemoveMacAI
-82,BRUTAL,ahwootech,"A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan,…",C#,1944,292,0,2026-10-17,https://github.com/ahwootech/BRUTAL
-83,yomiyasu,nanaism,AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese,Python,2254,290,0,2026-10-14,https://github.com/nanaism/yomiyasu
-84,pt-pc,LoreanXavier,Native PC port of P.T. (runs from your own PS4 game files),C++,1977,288,0,2026-10-14,https://github.com/LoreanXavier/pt-pc
-85,oil-ui,oil-oil,"UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side,…",Python,1820,280,0,2026-10-16,https://github.com/oil-oil/oil-ui
-86,shaders,shader-effects-inc,"WebGPU components for React, Vue, Svelte, Solid, JS & Framer",TypeScript,5106,278,0,2026-10-14,https://github.com/shader-effects-inc/shaders
-87,plugins,cursor,Cursor plugin specification and official plugins,TypeScript,12132,278,0,2026-10-17,https://github.com/cursor/plugins
-88,NotProton,NotProtonNot,Steam Play for macOS,Scala,1823,252,0,2026-10-14,https://github.com/NotProtonNot/NotProton
-89,omnirush-gui,omnirush-ai,A desktop coding agent with free access to frontier models.,TypeScript,3606,245,0,2026-10-14,https://github.com/omnirush-ai/omnirush-gui
-90,omdrop-owl,t4t5,airdrop for non-apple devices,Shell,2873,236,0,2026-10-14,https://github.com/t4t5/omdrop-owl
-91,floorplan-3d,wy51ai,(no description),HTML,2477,222,0,2026-10-14,https://github.com/wy51ai/floorplan-3d
-92,vibe-wise,nykooi1,A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.,Python,3771,212,0,2026-10-14,https://github.com/nykooi1/vibe-wise
-93,inkloom,Inkloom-art,"Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol…",TypeScript,1971,204,0,2026-10-15,https://github.com/Inkloom-art/inkloom
-94,tendedero,alejandrobujan,"Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",Swift,2339,182,0,2026-10-14,https://github.com/alejandrobujan/tendedero
-95,jev-chat-jarvis,jev-chat,"The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill…",Kotlin,7914,178,0,2026-10-14,https://github.com/jev-chat/jev-chat-jarvis
-96,disktree,tobi,"A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",Rust,3083,172,0,2026-10-14,https://github.com/tobi/disktree
-97,nvm,nvm-sh,Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.,Shell,95537,164,0,2026-10-14,https://github.com/nvm-sh/nvm
-98,usd-brep,NVIDIA-Omniverse,USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling,C++,1695,160,0,2026-10-16,https://github.com/NVIDIA-Omniverse/usd-brep
-99,pdoom-video,mexicat,"Code-rendered music video for ""I'm Upping My P(doom)""",TypeScript,2902,151,0,2026-10-14,https://github.com/mexicat/pdoom-video
-100,ZCode,zai-org,"Z.ai's coding agent harness. Powerful, intelligent, extensible.",TypeScript,7959,148,0,2026-10-14,https://github.com/zai-org/ZCode
+1,rea,morluto,"Reverse engineer anything with agents, from app behavior down to native binaries.",TypeScript,332113,229268,1,2026-10-14,https://github.com/morluto/rea
+2,VoiceStudio,debpalash,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing,…",Python,76850,16569,1,2026-10-14,https://github.com/debpalash/VoiceStudio
+3,artcraft,storytold,"ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",Rust,33379,16379,1,2026-10-19,https://github.com/storytold/artcraft
+4,AnyPS5,boykopovar,Tool for automatic PS5 executables porting to Linux and Windows,C++,43947,14224,1,2026-10-19,https://github.com/boykopovar/AnyPS5
+5,dsh-our-free-model,Ebony-Vinyl,在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this…,JavaScript,26664,11156,1,2026-10-14,https://github.com/Ebony-Vinyl/dsh-our-free-model
+6,photocraft,storytold,"PhotoCraft: An open-source, photo editor written by scratch in pure Rust",Rust,68002,8216,1,2026-10-14,https://github.com/storytold/photocraft
+7,diagram-design,cathrynlavery,"Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types.…",HTML,58182,7901,1,2026-10-19,https://github.com/cathrynlavery/diagram-design
+8,ghidra,NationalSecurityAgency,Ghidra is a software reverse engineering (SRE) framework,Java,91337,7602,1,2026-10-14,https://github.com/NationalSecurityAgency/ghidra
+9,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,16511,7321,1,2026-10-14,https://github.com/wheresryan22/anatomy
+10,harness2,google-research,(no description),Python,9320,6849,1,2026-10-18,https://github.com/google-research/harness2
+11,ai-job-search,MadsLorentzen,"The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor…",Python,55754,6732,1,2026-10-17,https://github.com/MadsLorentzen/ai-job-search
+12,hyperframes,heygen-com,Write HTML. Render video. Built for agents.,TypeScript,67316,5883,1,2026-10-19,https://github.com/heygen-com/hyperframes
+13,claude-plugins-official,anthropics,"Official, Anthropic-managed directory of high quality Claude Code Plugins.",Python,43074,4774,1,2026-10-16,https://github.com/anthropics/claude-plugins-official
+14,scientific-agent-skills,K-Dense-AI,"Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide.…",Python,52838,4310,1,2026-10-14,https://github.com/K-Dense-AI/scientific-agent-skills
+15,iFixAi,ifixai-ai,"Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI…",Python,28077,4252,1,2026-10-14,https://github.com/ifixai-ai/iFixAi
+16,magpie,yetone,"Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",Go,16676,4185,1,2026-10-14,https://github.com/yetone/magpie
+17,d2r-mobile,jhaizhou-ops,Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs…,C,3992,3992,1,2026-10-14,https://github.com/jhaizhou-ops/d2r-mobile
+18,Strata,Niko1221,"Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine,…",C++,27836,3582,1,2026-10-14,https://github.com/Niko1221/Strata
+19,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Java,3332,3332,1,2026-10-19,https://github.com/Gathin23/cleanyourtv
+20,qwen21-nsfw-pose-skill,Arekejoker,Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw,Python,3270,3270,1,2026-10-15,https://github.com/Arekejoker/qwen21-nsfw-pose-skill
+21,DroidDeck,Droid-Deck,DroidDeck brings the SteamOS experience to Android,Kotlin,11156,3164,1,2026-10-14,https://github.com/Droid-Deck/DroidDeck
+22,solidcraft,tangency-labs,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,6423,3148,1,2026-10-17,https://github.com/tangency-labs/solidcraft
+23,git-ai,feder-cr,Git designed for AI agents.,Go,2370,2370,1,2026-10-19,https://github.com/feder-cr/git-ai
+24,Filee,KnifeLemon,"Free, open-source file converter. Convert 244+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint,…",C#,5465,2357,1,2026-10-18,https://github.com/KnifeLemon/Filee
+25,everything,HeyPuter,We're rebuilding and open-sourcing the world’s software from scratch.,JavaScript,2272,2272,1,2026-10-17,https://github.com/HeyPuter/everything
+26,xerj,xerj-org,XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the…,Rust,8099,3523,0,2026-10-16,https://github.com/xerj-org/xerj
+27,context-mode,mksglu,"Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and…",TypeScript,30374,3246,0,2026-10-14,https://github.com/mksglu/context-mode
+28,ECC,affaan-m,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development…",JavaScript,282874,3215,0,2026-10-16,https://github.com/affaan-m/ECC
+29,xtool,xtool-org,"Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",Swift,11363,3012,0,2026-10-14,https://github.com/xtool-org/xtool
+30,pentagi,vxcontrol,Fully autonomous AI Agents system capable of performing complex penetration testing tasks,Go,30198,2844,0,2026-10-14,https://github.com/vxcontrol/pentagi
+31,CLI-Anything,HKUDS,"""CLI-Anything: Making ALL Software Agent-Native"" -- CLI-Hub:https://clianything.cc/",Python,54914,2705,0,2026-10-14,https://github.com/HKUDS/CLI-Anything
+32,orca,stablyai,"Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own…",TypeScript,97477,2421,0,2026-10-18,https://github.com/stablyai/orca
+33,ruflo,ruvnet,"🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build…",TypeScript,76829,1803,0,2026-10-16,https://github.com/ruvnet/ruflo
+34,opencode,anomalyco,The open source coding agent.,TypeScript,217152,1748,0,2026-10-18,https://github.com/anomalyco/opencode
+35,DigUp,ARahim3,"Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac,…",Swift,4889,1674,0,2026-10-14,https://github.com/ARahim3/DigUp
+36,superpowers,obra,An agentic skills framework & software development methodology that works.,Shell,300910,1555,0,2026-10-16,https://github.com/obra/superpowers
+37,awesome-opus5-5-videos,yihui-dev,A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to…,—,6437,1475,0,2026-10-14,https://github.com/yihui-dev/awesome-opus5-5-videos
+38,sill,Saffsanity,"Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no…",Swift,3515,1351,0,2026-10-16,https://github.com/Saffsanity/sill
+39,esp32-iphone-agent,onehumanbeing,"Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No…",C,3233,1270,0,2026-10-14,https://github.com/onehumanbeing/esp32-iphone-agent
+40,lemo-opuscar,lemomo-ai,"Claude Code skill for short films with no video model: 51 film styles, each a style prompt plus a demo film made…",JavaScript,3495,1207,0,2026-10-14,https://github.com/lemomo-ai/lemo-opuscar
+41,dsh-ops,T-Auto,"A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少…",JavaScript,3210,1193,0,2026-10-15,https://github.com/T-Auto/dsh-ops
+42,DiPlay,shihabal3amri,Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.,Kotlin,11613,1085,0,2026-10-14,https://github.com/shihabal3amri/DiPlay
+43,ComfyUI,Comfy-Org,"The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local…",Python,139126,1011,0,2026-10-19,https://github.com/Comfy-Org/ComfyUI
+44,LibreTV,LibreSpark,一分钟搭建影视站，支持Docker等部署方式,TypeScript,18580,978,0,2026-10-16,https://github.com/LibreSpark/LibreTV
+45,replica-skill,Jakeschincariol,"Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its…",Python,3470,951,0,2026-10-14,https://github.com/Jakeschincariol/replica-skill
+46,ai-memory,akitaonrails,Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors,Rust,10837,844,0,2026-10-18,https://github.com/akitaonrails/ai-memory
+47,universal-modder,rehan-remade,"Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon,…",Python,8396,840,0,2026-10-14,https://github.com/rehan-remade/universal-modder
+48,solidcraft,bherbruck,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,2890,762,0,2026-10-14,https://github.com/bherbruck/solidcraft
+49,DeepSeek-Bot,Fei2411,"A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",JavaScript,2549,724,0,2026-10-14,https://github.com/Fei2411/DeepSeek-Bot
+50,apk-reverse,newliver666,Suitable for Android APK reverse engineering analysis,Python,4935,691,0,2026-10-14,https://github.com/newliver666/apk-reverse
+51,solid-glass,deeplethe,"A design system for AI applications. Material, physical, tactile, technical.",TypeScript,2270,649,0,2026-10-17,https://github.com/deeplethe/solid-glass
+52,aurelio-finance,LosaLosSantos,"Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts…",Python,3969,598,0,2026-10-14,https://github.com/LosaLosSantos/aurelio-finance
+53,iPhone-use,zhongerxin,让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。,Python,4277,585,0,2026-10-14,https://github.com/zhongerxin/iPhone-use
+54,reelmimic,edenfunf,"Show it a video you love. Get a new video in the same style. An AI crew (Claude Code or Codex) plans, builds and…",JavaScript,3651,577,0,2026-10-14,https://github.com/edenfunf/reelmimic
+55,LinkSwift,hmjz100,一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘,JavaScript,24170,538,0,2026-10-17,https://github.com/hmjz100/LinkSwift
+56,how-to-live-better,cdyforever,《高性价比人生指南》全书 528 条的在线单页阅读版：手机可读、可搜索、零依赖、支持离线,HTML,12317,524,0,2026-10-14,https://github.com/cdyforever/how-to-live-better
+57,huashu-art-motion,alchaincyf,艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。,JavaScript,4460,514,0,2026-10-14,https://github.com/alchaincyf/huashu-art-motion
+58,jasna,Kruk2,Video restoration tool,Python,2694,502,0,2026-10-19,https://github.com/Kruk2/jasna
+59,bloodborne_pc,deadinside28,(no description),C++,3290,492,0,2026-10-14,https://github.com/deadinside28/bloodborne_pc
+60,CCBaga,liseami,(no description),Rust,2703,489,0,2026-10-14,https://github.com/liseami/CCBaga
+61,answer-me-with-html,QingYunA,Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent…,JavaScript,3813,471,0,2026-10-14,https://github.com/QingYunA/answer-me-with-html
+62,nvidia-macos-driver,nullmoth,Metal driver for NVIDIA GeForce cards on macOS Sequoia,Rust,3427,467,0,2026-10-14,https://github.com/nullmoth/nvidia-macos-driver
+63,geo-sleuth,Oldcircle,"An agent skill that finds where a photo was taken — OpenStreetMap geometry, elevation skylines, satellite imagery and…",Python,3151,452,0,2026-10-14,https://github.com/Oldcircle/geo-sleuth
+64,logo-design-skill,kaankiziltug,"A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft,…",HTML,3730,452,0,2026-10-14,https://github.com/kaankiziltug/logo-design-skill
+65,mygo,egoist,Develop desktop apps with native UI or web frontend in Go,Go,2358,440,0,2026-10-14,https://github.com/egoist/mygo
+66,math,openai,(no description),Lean,15199,440,0,2026-10-14,https://github.com/openai/math
+67,AIHOT,KKKKhazix,一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。,TypeScript,8061,438,0,2026-10-14,https://github.com/KKKKhazix/AIHOT
+68,caveman,JuliusBrussee,🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking…,Go,112931,433,0,2026-10-16,https://github.com/JuliusBrussee/caveman
+69,os-taxonomy,withmarbleapp,(no description),JavaScript,5845,427,0,2026-10-19,https://github.com/withmarbleapp/os-taxonomy
+70,rust,rust-lang,Empowering everyone to build reliable and efficient software.,Rust,120257,412,0,2026-10-14,https://github.com/rust-lang/rust
+71,hairline,lucasmarkes,Six isometric line figures that answer the pointer. For React and for anything with a DOM.,TypeScript,2348,395,0,2026-10-14,https://github.com/lucasmarkes/hairline
+72,coucou,Louis-CFM,"A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex,…",Swift,5557,393,0,2026-10-14,https://github.com/Louis-CFM/coucou
+73,skills,android,(no description),Kotlin,8576,391,0,2026-10-17,https://github.com/android/skills
+74,tiny11builder,ntdevlabs,"WinUI app for building smaller, customized Windows 11 images.",C#,20430,381,0,2026-10-14,https://github.com/ntdevlabs/tiny11builder
+75,laya,NandhaKishorM,"Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward…",Python,33215,355,0,2026-10-14,https://github.com/NandhaKishorM/laya
+76,Kronos,shiyu-coder,Kronos: A Foundation Model for the Language of Financial Markets,Python,41309,355,0,2026-10-19,https://github.com/shiyu-coder/Kronos
+77,claude-code,anthropics,"Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster…",TypeScript,152347,346,0,2026-10-18,https://github.com/anthropics/claude-code
+78,ARTEX,mhtsec,AI 自主渗透测试系统,Go,4368,341,0,2026-10-14,https://github.com/mhtsec/ARTEX
+79,onetake,feitangyuan,"Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera,…",Python,2686,336,0,2026-10-14,https://github.com/feitangyuan/onetake
+80,awesome-decomp-games,SubmitGame,"Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports,…",Python,1902,334,0,2026-10-18,https://github.com/SubmitGame/awesome-decomp-games
+81,SCSKiller,BlueHeisenberg,Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of…,C#,3057,333,0,2026-10-14,https://github.com/BlueHeisenberg/SCSKiller
+82,manimgx,academa-labs,"The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core.",Python,1855,327,0,2026-10-16,https://github.com/academa-labs/manimgx
+83,folkbench,Folkbench,"AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",Rust,1928,325,0,2026-10-18,https://github.com/Folkbench/folkbench
+84,OpenDots,CopilotKit,"Your always-on AI coworkers that move between text, calls, and Slack.",TypeScript,5592,318,0,2026-10-14,https://github.com/CopilotKit/OpenDots
+85,headroom,headroomlabs-ai,"Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents,…",Python,75970,317,0,2026-10-19,https://github.com/headroomlabs-ai/headroom
+86,RemoveMacAI,omlahore,"Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be…",Swift,4980,314,0,2026-10-14,https://github.com/omlahore/RemoveMacAI
+87,BRUTAL,ahwootech,"A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan,…",C#,1944,292,0,2026-10-17,https://github.com/ahwootech/BRUTAL
+88,yomiyasu,nanaism,AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese,Python,2254,290,0,2026-10-14,https://github.com/nanaism/yomiyasu
+89,pt-pc,LoreanXavier,Native PC port of P.T. (runs from your own PS4 game files),C++,1977,288,0,2026-10-14,https://github.com/LoreanXavier/pt-pc
+90,oil-ui,oil-oil,"UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side,…",Python,1820,280,0,2026-10-16,https://github.com/oil-oil/oil-ui
+91,shaders,shader-effects-inc,"WebGPU components for React, Vue, Svelte, Solid, JS & Framer",TypeScript,5106,278,0,2026-10-14,https://github.com/shader-effects-inc/shaders
+92,plugins,cursor,Cursor plugin specification and official plugins,TypeScript,12132,278,0,2026-10-17,https://github.com/cursor/plugins
+93,NotProton,NotProtonNot,Steam Play for macOS,Scala,1823,252,0,2026-10-14,https://github.com/NotProtonNot/NotProton
+94,omnirush-gui,omnirush-ai,A desktop coding agent with free access to frontier models.,TypeScript,3606,245,0,2026-10-14,https://github.com/omnirush-ai/omnirush-gui
+95,omdrop-owl,t4t5,airdrop for non-apple devices,Shell,2873,236,0,2026-10-14,https://github.com/t4t5/omdrop-owl
+96,floorplan-3d,wy51ai,(no description),HTML,2477,222,0,2026-10-14,https://github.com/wy51ai/floorplan-3d
+97,vibe-wise,nykooi1,A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.,Python,3771,212,0,2026-10-14,https://github.com/nykooi1/vibe-wise
+98,inkloom,Inkloom-art,"Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol…",TypeScript,1971,204,0,2026-10-15,https://github.com/Inkloom-art/inkloom
+99,tendedero,alejandrobujan,"Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",Swift,2339,182,0,2026-10-14,https://github.com/alejandrobujan/tendedero
+100,jev-chat-jarvis,jev-chat,"The chat decision assistant: before you reply, Jev reads the chat, judges intent and risk, and drafts replies you fill…",Kotlin,7914,178,0,2026-10-14,https://github.com/jev-chat/jev-chat-jarvis
