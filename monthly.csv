@@ -1,26 +1,26 @@
 Month,Rank,Project,Made by,What it does,Language,Stars gained this month,Total stars,Link
 October 2026,1,rea,morluto,"Reverse engineer anything with agents, from app behavior down to native binaries.",TypeScript,229268,332113,https://github.com/morluto/rea
-October 2026,2,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Java,26096,26096,https://github.com/Gathin23/cleanyourtv
+October 2026,2,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Java,29261,29261,https://github.com/Gathin23/cleanyourtv
 October 2026,3,dsh-our-free-model,Ebony-Vinyl,在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this…,JavaScript,22589,38097,https://github.com/Ebony-Vinyl/dsh-our-free-model
-October 2026,4,DeepInfer,deepseek-ai,"DeepInfer: High-performance, large-scale inference framework for DeepSeek models",Python,20534,20534,https://github.com/deepseek-ai/DeepInfer
-October 2026,5,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,19418,19418,https://github.com/wheresryan22/anatomy
-October 2026,6,harness2,google-research,(no description),Python,18287,18287,https://github.com/google-research/harness2
+October 2026,4,DeepInfer,deepseek-ai,"DeepInfer: High-performance, large-scale inference framework for DeepSeek models",Python,21459,21459,https://github.com/deepseek-ai/DeepInfer
+October 2026,5,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,19857,19857,https://github.com/wheresryan22/anatomy
+October 2026,6,harness2,google-research,(no description),Python,18758,18758,https://github.com/google-research/harness2
 October 2026,7,VoiceStudio,debpalash,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing,…",Python,16569,76850,https://github.com/debpalash/VoiceStudio
 October 2026,8,artcraft,storytold,"ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",Rust,16379,33379,https://github.com/storytold/artcraft
-October 2026,9,wordcraft,storytold,"An open-source, clean-room reimplementation of Microsoft Word in pure Rust",Rust,15636,15636,https://github.com/storytold/wordcraft
-October 2026,10,math,openai,(no description),Lean,15418,15418,https://github.com/openai/math
+October 2026,9,wordcraft,storytold,"An open-source, clean-room reimplementation of Microsoft Word in pure Rust",Rust,15808,15808,https://github.com/storytold/wordcraft
+October 2026,10,math,openai,(no description),Lean,15454,15454,https://github.com/openai/math
 October 2026,11,AnyPS5,boykopovar,Tool for automatic PS5 executables porting to Linux and Windows,C++,14224,43947,https://github.com/boykopovar/AnyPS5
 October 2026,12,ai-job-search,MadsLorentzen,"The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor…",Python,13840,61993,https://github.com/MadsLorentzen/ai-job-search
-October 2026,13,solidcraft,tangency-labs,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,9501,9501,https://github.com/tangency-labs/solidcraft
-October 2026,14,diagram-design,cathrynlavery,"Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types.…",HTML,7901,58182,https://github.com/cathrynlavery/diagram-design
-October 2026,15,ghidra,NationalSecurityAgency,Ghidra is a software reverse engineering (SRE) framework,Java,7602,91337,https://github.com/NationalSecurityAgency/ghidra
-October 2026,16,Filee,KnifeLemon,"Free, open-source file converter. Convert 244+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint,…",C#,7529,10637,https://github.com/KnifeLemon/Filee
-October 2026,17,magpie,yetone,"Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",Go,6805,19296,https://github.com/yetone/magpie
-October 2026,18,security-audit-skill,cloudflare,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,6703,40587,https://github.com/cloudflare/security-audit-skill
+October 2026,13,solidcraft,tangency-labs,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,9844,9844,https://github.com/tangency-labs/solidcraft
+October 2026,14,security-audit-skill,cloudflare,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,9419,42814,https://github.com/cloudflare/security-audit-skill
+October 2026,15,Filee,KnifeLemon,"Free, open-source file converter. Convert 244+ formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint,…",C#,8222,11330,https://github.com/KnifeLemon/Filee
+October 2026,16,diagram-design,cathrynlavery,"Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types.…",HTML,7901,58182,https://github.com/cathrynlavery/diagram-design
+October 2026,17,ghidra,NationalSecurityAgency,Ghidra is a software reverse engineering (SRE) framework,Java,7602,91337,https://github.com/NationalSecurityAgency/ghidra
+October 2026,18,magpie,yetone,"Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",Go,6805,19296,https://github.com/yetone/magpie
 October 2026,19,Strata,Niko1221,"Qwen3.8-Flash-Next on any consumer hardware: one-click install for Windows / Linux. Strata inference engine,…",C++,6620,30874,https://github.com/Niko1221/Strata
 October 2026,20,hyperframes,heygen-com,Write HTML. Render video. Built for agents.,TypeScript,5883,67316,https://github.com/heygen-com/hyperframes
-October 2026,21,DigUp,ARahim3,"Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac,…",Swift,5618,5618,https://github.com/ARahim3/DigUp
+October 2026,21,DigUp,ARahim3,"Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac,…",Swift,5682,5682,https://github.com/ARahim3/DigUp
 October 2026,22,orca,stablyai,"Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own…",TypeScript,5576,100434,https://github.com/stablyai/orca
 October 2026,23,ponytail,DietrichGebert,Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.,JavaScript,5235,174288,https://github.com/DietrichGebert/ponytail
-October 2026,24,DroidDeck,Droid-Deck,DroidDeck brings the SteamOS experience to Android,Kotlin,5041,13033,https://github.com/Droid-Deck/DroidDeck
-October 2026,25,huashu-art-motion,alchaincyf,艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。,JavaScript,4958,4958,https://github.com/alchaincyf/huashu-art-motion
+October 2026,24,awesome-opus5-5-videos,yihui-dev,A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to…,—,5177,10139,https://github.com/yihui-dev/awesome-opus5-5-videos
+October 2026,25,replica-skill,Jakeschincariol,"Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its…",Python,5097,5097,https://github.com/Jakeschincariol/replica-skill
