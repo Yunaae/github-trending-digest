@@ -1,0 +1,782 @@
+[
+ {
+  "name": "ARahim3/DigUp",
+  "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+  "language": "Swift",
+  "stars": 5750,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "AhmadHassan-BTed/.github",
+  "description": "",
+  "language": "",
+  "stars": 2185,
+  "created_at": "2026-10-09"
+ },
+ {
+  "name": "Arekejoker/qwen21-nsfw-pose-skill",
+  "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+  "language": "Python",
+  "stars": 3714,
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "BlueHeisenberg/SCSKiller",
+  "description": "Kill shader compilation stutter before you play. Compiles your games' shaders into the GPU driver's cache ahead of time. Windows, NVIDIA and AMD.",
+  "language": "C#",
+  "stars": 3456,
+  "created_at": "2026-09-29"
+ },
+ {
+  "name": "CopilotKit/OpenDots",
+  "description": "Your always-on AI coworkers that move between text, calls, and Slack.",
+  "language": "TypeScript",
+  "stars": 5992,
+  "created_at": "2026-09-29"
+ },
+ {
+  "name": "EthanArbuckle/fairplay-decrypt",
+  "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+  "language": "C",
+  "stars": 2034,
+  "created_at": "2026-10-19"
+ },
+ {
+  "name": "Fei2411/DeepSeek-Bot",
+  "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+  "language": "JavaScript",
+  "stars": 3802,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "Folkbench/folkbench",
+  "description": "AI API 中转站评测排行与切换工具：实测可用率、延迟与价格 · Open-source AI API relay benchmark, rankings & switcher for Claude Code / Codex",
+  "language": "Rust",
+  "stars": 3615,
+  "created_at": "2026-10-02"
+ },
+ {
+  "name": "Gathin23/cleanyourtv",
+  "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+  "language": "Java",
+  "stars": 33048,
+  "created_at": "2026-10-17"
+ },
+ {
+  "name": "HeyPuter/everything",
+  "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+  "language": "JavaScript",
+  "stars": 3849,
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "Jakeschincariol/replica-skill",
+  "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+  "language": "Python",
+  "stars": 5350,
+  "created_at": "2026-10-03"
+ },
+ {
+  "name": "JoasASantos/REA-Prompts",
+  "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+  "language": "",
+  "stars": 2260,
+  "created_at": "2026-10-19"
+ },
+ {
+  "name": "KKKKhazix/AIHOT",
+  "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+  "language": "TypeScript",
+  "stars": 8578,
+  "created_at": "2026-09-28"
+ },
+ {
+  "name": "KingKongRobotics/jumper",
+  "description": "🦀 Jumper — an crab robot.",
+  "language": "Python",
+  "stars": 2882,
+  "created_at": "2026-09-28"
+ },
+ {
+  "name": "KnifeLemon/Filee",
+  "description": "Free, open-source file converter. Convert 255 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+  "language": "C#",
+  "stars": 11922,
+  "created_at": "2026-09-29"
+ },
+ {
+  "name": "Leonxlnx/earshot",
+  "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+  "language": "Python",
+  "stars": 2695,
+  "created_at": "2026-10-15"
+ },
+ {
+  "name": "LoreanXavier/pt-pc",
+  "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+  "language": "C++",
+  "stars": 2166,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "Louis-CFM/coucou",
+  "description": "A tiny friend in your Mac's notch and on your iPhone that keeps an eye on your AI coding agents: Claude Code, Codex, Cursor, Gemini CLI, Antigravity and more. Approve from the notch or your Lock Screen.",
+  "language": "Swift",
+  "stars": 6397,
+  "created_at": "2026-09-27"
+ },
+ {
+  "name": "NVIDIA-Omniverse/usd-brep",
+  "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+  "language": "C++",
+  "stars": 1840,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "NVIDIA/OpenShell",
+  "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
+  "language": "Rust",
+  "stars": 19707,
+  "stars_today": 896,
+  "trending": true
+ },
+ {
+  "name": "Nutlope/hallmark",
+  "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+  "language": "CSS",
+  "stars": 32704,
+  "stars_today": 455,
+  "trending": true
+ },
+ {
+  "name": "OpenMOSS/MOSS-Image",
+  "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+  "language": "Python",
+  "stars": 1792,
+  "created_at": "2026-10-16"
+ },
+ {
+  "name": "QingYunA/answer-me-with-html",
+  "description": "Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。",
+  "language": "JavaScript",
+  "stars": 4381,
+  "created_at": "2026-10-02"
+ },
+ {
+  "name": "SubmitGame/awesome-decomp-games",
+  "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+  "language": "Python",
+  "stars": 2382,
+  "created_at": "2026-10-09"
+ },
+ {
+  "name": "Supermedo/uncharted_pc",
+  "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+  "language": "C++",
+  "stars": 1941,
+  "created_at": "2026-10-15"
+ },
+ {
+  "name": "T-Auto/dsh-ops",
+  "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+  "language": "JavaScript",
+  "stars": 4191,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "Vincentwei1021/mg-styles-15",
+  "description": "15 motion design styles, each made by Claude Opus 5.5 writing code from one prompt: watch the films, copy the prompts, read the full source.",
+  "language": "Python",
+  "stars": 2069,
+  "created_at": "2026-10-02"
+ },
+ {
+  "name": "Zagitta/gpu-unlock",
+  "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+  "language": "C",
+  "stars": 4319,
+  "created_at": "2026-10-18"
+ },
+ {
+  "name": "academa-labs/manimgx",
+  "description": "The animation engine for agents: blazingly fast math and 3D videos with Manim's Python API, on a Rust GPU core.",
+  "language": "Python",
+  "stars": 2104,
+  "created_at": "2026-10-05"
+ },
+ {
+  "name": "ahwootech/BRUTAL",
+  "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+  "language": "C#",
+  "stars": 2220,
+  "created_at": "2026-10-14"
+ },
+ {
+  "name": "aicodeking/leanrea",
+  "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+  "language": "Python",
+  "stars": 2335,
+  "created_at": "2026-10-17"
+ },
+ {
+  "name": "alchaincyf/huashu-art-motion",
+  "description": "艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。",
+  "language": "JavaScript",
+  "stars": 5137,
+  "created_at": "2026-10-06"
+ },
+ {
+  "name": "alejandrobujan/tendedero",
+  "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+  "language": "Swift",
+  "stars": 2513,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "aws/agent-toolkit-for-aws",
+  "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+  "language": "Python",
+  "stars": 3251,
+  "stars_today": 13,
+  "trending": true
+ },
+ {
+  "name": "chenglou/handwired",
+  "description": "Turn your regular JavaScript code into a neural net.",
+  "language": "TypeScript",
+  "stars": 1987,
+  "created_at": "2026-10-15"
+ },
+ {
+  "name": "cloudflare/security-audit-skill",
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript",
+  "stars": 45613,
+  "stars_today": 2264,
+  "trending": true
+ },
+ {
+  "name": "darrenprx/lolPing",
+  "description": "League of Legends ping wheel for your Windows desktop. Hold Alt, drag, and ping anywhere, with the original animations and sounds.",
+  "language": "TypeScript",
+  "stars": 1793,
+  "created_at": "2026-10-02"
+ },
+ {
+  "name": "deadinside28/bloodborne_pc",
+  "description": "",
+  "language": "C++",
+  "stars": 3603,
+  "created_at": "2026-10-01"
+ },
+ {
+  "name": "deeplethe/solid-glass",
+  "description": "A design system for AI applications. Material, physical, tactile, technical.",
+  "language": "TypeScript",
+  "stars": 2199,
+  "created_at": "2026-10-12"
+ },
+ {
+  "name": "deepseek-ai/DeepInfer",
+  "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+  "language": "Python",
+  "stars": 22119,
+  "created_at": "2026-10-16"
+ },
+ {
+  "name": "dzhng/jevgrep",
+  "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+  "language": "TypeScript",
+  "stars": 2897,
+  "created_at": "2026-09-26"
+ },
+ {
+  "name": "egoist/mygo",
+  "description": "Develop desktop apps with native UI or web frontend in Go",
+  "language": "Go",
+  "stars": 2872,
+  "created_at": "2026-09-26"
+ },
+ {
+  "name": "facebookincubator/muse-gadget-sdk",
+  "description": "Open source SDK to build Muse gadgets",
+  "language": "C",
+  "stars": 2409,
+  "created_at": "2026-10-02"
+ },
+ {
+  "name": "feitangyuan/onetake",
+  "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. Product launch films and feature demos, made with a coding agent.",
+  "language": "Python",
+  "stars": 3212,
+  "created_at": "2026-09-26"
+ },
+ {
+  "name": "google-gemini/gemini-cli",
+  "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+  "language": "TypeScript",
+  "stars": 108349,
+  "stars_today": 44,
+  "trending": true
+ },
+ {
+  "name": "google-research/harness2",
+  "description": "",
+  "language": "Python",
+  "stars": 19297,
+  "created_at": "2026-10-06"
+ },
+ {
+  "name": "ikow/php2shell-poc",
+  "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+  "language": "Python",
+  "stars": 1776,
+  "created_at": "2026-10-21"
+ },
+ {
+  "name": "jbiaojerry/ebook-treasure-chest",
+  "description": "欢迎来到电子书下载宝库，一个汇聚了各类电子书下载链接的地方。无论你是喜欢阅读经典文学、经管励志、终身学习、职场创业、技术手册还是其他类型的书籍，这里都能满足你的需求。 该库涵盖了帆书app(原樊登读书)、微信读书、京东读书、喜马拉雅等读书app的大部分电子书。",
+  "language": "Python",
+  "stars": 22988,
+  "stars_today": 227,
+  "trending": true
+ },
+ {
+  "name": "jhaizhou-ops/d2r-mobile",
+  "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层",
+  "language": "C",
+  "stars": 4595,
+  "created_at": "2026-10-12"
+ },
+ {
+  "name": "jiwoochris/artex-global",
+  "description": "ARTEX 한국어판 · AI 자율 침투 테스트 프레임워크(upstream: Autumn-27/ARTEX, AGPL-3.0)",
+  "language": "Go",
+  "stars": 2150,
+  "created_at": "2026-10-03"
+ },
+ {
+  "name": "kaankiziltug/logo-design-skill",
+  "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+  "language": "HTML",
+  "stars": 4505,
+  "created_at": "2026-09-26"
+ },
+ {
+  "name": "kargulstudio/sales-crm",
+  "description": "",
+  "language": "TypeScript",
+  "stars": 1767,
+  "created_at": "2026-10-04"
+ },
+ {
+  "name": "lemomo-ai/lemo-opuscar",
+  "description": "A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的",
+  "language": "JavaScript",
+  "stars": 6906,
+  "created_at": "2026-09-26"
+ },
+ {
+  "name": "liseami/CCBaga",
+  "description": "",
+  "language": "Rust",
+  "stars": 2990,
+  "created_at": "2026-10-11"
+ },
+ {
+  "name": "lucasmarkes/hairline",
+  "description": "Isometric line figures that answer the pointer. For React and for anything with a DOM.",
+  "language": "TypeScript",
+  "stars": 2902,
+  "created_at": "2026-10-01"
+ },
+ {
+  "name": "luongnv89/claude-howto",
+  "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
+  "language": "Python",
+  "stars": 44836,
+  "stars_today": 392,
+  "trending": true
+ },
+ {
+  "name": "ly05010419/MacNativeGames",
+  "description": "",
+  "language": "C",
+  "stars": 5323,
+  "created_at": "2026-10-17"
+ },
+ {
+  "name": "makecindy/cindy",
+  "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+  "language": "TypeScript",
+  "stars": 4369,
+  "stars_today": 477,
+  "trending": true
+ },
+ {
+  "name": "mmparko/dsh-purge",
+  "description": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
+  "language": "JavaScript",
+  "stars": 2265,
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "mw00/project-maya",
+  "description": "Project Maya - run GLM-5.3-Flash (321B MoE) and DeepSeek-V4.1-Flash-1017 (748B MoE) privately on your own GPU(s), from one card to 16, NVIDIA or AMD, Linux or Windows. Engine, server, dashboard, OpenAI- and Anthropic-compatible API, quant tools.",
+  "language": "C++",
+  "stars": 1812,
+  "created_at": "2026-10-06"
+ },
+ {
+  "name": "nanaism/yomiyasu",
+  "description": "AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese into Natural Japanese",
+  "language": "Python",
+  "stars": 2517,
+  "created_at": "2026-09-30"
+ },
+ {
+  "name": "noahdunnagan/fsearch",
+  "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+  "language": "Rust",
+  "stars": 2180,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "nullmoth/nvidia-macos-driver",
+  "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+  "language": "Rust",
+  "stars": 3712,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "nykooi1/vibe-wise",
+  "description": "A Claude Code / Codex plugin that helps you learn how to build while AI writes the code.",
+  "language": "Python",
+  "stars": 3932,
+  "created_at": "2026-09-29"
+ },
+ {
+  "name": "obsidianmd/pele",
+  "description": "Renders Mermaid diagrams faster than you'd run from a volcano! 🌋 ",
+  "language": "TypeScript",
+  "stars": 3471,
+  "created_at": "2026-10-05"
+ },
+ {
+  "name": "oil-oil/oil-ui",
+  "description": "UI design skill for Claude Code, Codex and other AI agents: explore distinct directions, compare them side by side, refine against real screenshots. 给 AI Agent 用的 UI 设计 Skill。",
+  "language": "Python",
+  "stars": 2144,
+  "created_at": "2026-09-30"
+ },
+ {
+  "name": "omlahore/RemoveMacAI",
+  "description": "Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.",
+  "language": "Swift",
+  "stars": 5228,
+  "created_at": "2026-09-29"
+ },
+ {
+  "name": "onehumanbeing/esp32-iphone-agent",
+  "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+  "language": "C",
+  "stars": 3836,
+  "created_at": "2026-10-11"
+ },
+ {
+  "name": "openai/math",
+  "description": "",
+  "language": "Lean",
+  "stars": 15491,
+  "created_at": "2026-10-06"
+ },
+ {
+  "name": "openfilm/openfilm",
+  "description": "The open source AI video agent: turns any coding agent into a video agent, with an editor to change anything it makes.",
+  "language": "TypeScript",
+  "stars": 2706,
+  "created_at": "2026-10-04"
+ },
+ {
+  "name": "opengeos/RustGIS",
+  "description": "A fast, free and open-source GIS in pure Rust.",
+  "language": "Rust",
+  "stars": 1932,
+  "created_at": "2026-10-10"
+ },
+ {
+  "name": "oxc-project/tsrs",
+  "description": "Rust port of the TypeScript 7 type checker",
+  "language": "Rust",
+  "stars": 2199,
+  "created_at": "2026-10-01"
+ },
+ {
+  "name": "pbakaus/impeccable",
+  "description": "The design language that makes your AI harness better at design.",
+  "language": "Rust",
+  "stars": 86842,
+  "stars_today": 619,
+  "trending": true
+ },
+ {
+  "name": "peiikai/LASRecomp",
+  "description": "Static recompilation of Link's Awakening (Switch) to native macOS, Windows and Linux",
+  "language": "C",
+  "stars": 1774,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "pengchujin/aerial-tv",
+  "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+  "language": "Kotlin",
+  "stars": 4665,
+  "created_at": "2026-10-20"
+ },
+ {
+  "name": "perplexityai/SPACE",
+  "description": "Sandboxed Platform for Agentic Code Execution: pluggable-runtime sandboxes for running agent and user code in isolation.",
+  "language": "Rust",
+  "stars": 1945,
+  "created_at": "2026-10-01"
+ },
+ {
+  "name": "pollen-robotics/microduck",
+  "description": "A Tiny biped duck robot 🦆",
+  "language": "Rust",
+  "stars": 11245,
+  "stars_today": 319,
+  "trending": true
+ },
+ {
+  "name": "rehan-remade/universal-modder",
+  "description": "Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod almost any PC game you own: recon, reverse engineering, fal-generated art/3D/audio, in-game testing, showcase videos.",
+  "language": "Python",
+  "stars": 8919,
+  "created_at": "2026-09-30"
+ },
+ {
+  "name": "rohit267/net-merge",
+  "description": "Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers",
+  "language": "Go",
+  "stars": 2176,
+  "created_at": "2026-10-12"
+ },
+ {
+  "name": "seedds/nxnative",
+  "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+  "language": "C",
+  "stars": 3485,
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "shader-effects-inc/shaders",
+  "description": "WebGPU components for React, Vue, Svelte, Solid, JS & Framer",
+  "language": "TypeScript",
+  "stars": 5433,
+  "created_at": "2026-09-29"
+ },
+ {
+  "name": "shaongitbd/doory",
+  "description": "Open source canva alternative",
+  "language": "TypeScript",
+  "stars": 1827,
+  "created_at": "2026-10-10"
+ },
+ {
+  "name": "simbasjungles/free-my-tv",
+  "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+  "language": "Java",
+  "stars": 4387,
+  "created_at": "2026-10-19"
+ },
+ {
+  "name": "storytold/cadcraft",
+  "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+  "language": "Rust",
+  "stars": 6735,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "storytold/craft-launcher",
+  "description": "The Craft App Launcher",
+  "language": "Rust",
+  "stars": 4011,
+  "created_at": "2026-10-09"
+ },
+ {
+  "name": "storytold/deckcraft",
+  "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+  "language": "Rust",
+  "stars": 4230,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "storytold/designcraft",
+  "description": "DesignCraft: An open-source page and layout design editor written by scratch in pure Rust",
+  "language": "Rust",
+  "stars": 4763,
+  "created_at": "2026-10-01"
+ },
+ {
+  "name": "storytold/effectcraft",
+  "description": "EffectCraft: An open-source motion graphics and compositing tool written by scratch in pure Rust",
+  "language": "Rust",
+  "stars": 7863,
+  "created_at": "2026-10-01"
+ },
+ {
+  "name": "storytold/figcraft",
+  "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+  "language": "Rust",
+  "stars": 3421,
+  "created_at": "2026-10-09"
+ },
+ {
+  "name": "storytold/filmcraft",
+  "description": "FilmCraft: An open-source, nonlinear video editor written by scratch in pure Rust",
+  "language": "Rust",
+  "stars": 16166,
+  "created_at": "2026-09-30"
+ },
+ {
+  "name": "storytold/gridcraft",
+  "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+  "language": "Rust",
+  "stars": 6462,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "storytold/lightcraft",
+  "description": "LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust",
+  "language": "Rust",
+  "stars": 14586,
+  "created_at": "2026-09-30"
+ },
+ {
+  "name": "storytold/pdfcraft",
+  "description": "PdfCraft: An open-source PDF reader and editor written by scratch in pure Rust",
+  "language": "Rust",
+  "stars": 17702,
+  "created_at": "2026-09-30"
+ },
+ {
+  "name": "storytold/photocraft",
+  "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+  "language": "Rust",
+  "stars": 72567,
+  "created_at": "2026-09-30"
+ },
+ {
+  "name": "storytold/soundcraft",
+  "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+  "language": "Rust",
+  "stars": 3726,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "storytold/vectorcraft",
+  "description": "VectorCraft: An open-source, vector art tool written by scratch in pure Rust",
+  "language": "Rust",
+  "stars": 10638,
+  "created_at": "2026-09-30"
+ },
+ {
+  "name": "storytold/wordcraft",
+  "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+  "language": "Rust",
+  "stars": 15947,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "t4t5/owly",
+  "description": "airdrop for non-apple devices",
+  "language": "Rust",
+  "stars": 3037,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "tangency-labs/solidcraft",
+  "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+  "language": "Rust",
+  "stars": 10242,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "trhhubsd/ARTEX",
+  "description": "ARTEX · AI autonomous penetration testing system (multi-agent LLM, Go + Next.js) · AI 自主渗透测试系统 · 百度 agent+ 攻防挑战赛冠军",
+  "language": "Go",
+  "stars": 1893,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "wesbos/3d-model-anything",
+  "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+  "language": "Swift",
+  "stars": 1794,
+  "created_at": "2026-10-21"
+ },
+ {
+  "name": "wheresryan22/anatomy",
+  "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+  "language": "JavaScript",
+  "stars": 20339,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "wuyoscar/AISafetyHot",
+  "description": "Safety News & Research Monitor. https://aisafetyhot.com",
+  "language": "TeX",
+  "stars": 1860,
+  "created_at": "2026-10-01"
+ },
+ {
+  "name": "wy51ai/floorplan-3d",
+  "description": "",
+  "language": "HTML",
+  "stars": 2848,
+  "created_at": "2026-09-29"
+ },
+ {
+  "name": "xevrion/hatchzip",
+  "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+  "language": "Rust",
+  "stars": 1831,
+  "created_at": "2026-10-21"
+ },
+ {
+  "name": "xiaoyang111222/cn-math-taxonomy",
+  "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+  "language": "Python",
+  "stars": 3498,
+  "created_at": "2026-10-18"
+ },
+ {
+  "name": "yeqv111/mccarbon",
+  "description": "麦麦碳账本 · 基于麦当劳 MCP 的个人餐饮碳足迹估算与减排模拟器 | Personal dining carbon footprint estimator powered by McDonald's MCP",
+  "language": "Python",
+  "stars": 1770,
+  "created_at": "2026-10-12"
+ },
+ {
+  "name": "yihui-dev/awesome-opus5-5-videos",
+  "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+  "language": "",
+  "stars": 10699,
+  "created_at": "2026-09-27"
+ },
+ {
+  "name": "zhongerxin/iPhone-use",
+  "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
+  "language": "Python",
+  "stars": 4618,
+  "created_at": "2026-10-06"
+ },
+ {
+  "name": "zhuyansen/new-term-radar",
+  "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+  "language": "Python",
+  "stars": 1779,
+  "created_at": "2026-10-12"
+ }
+]
