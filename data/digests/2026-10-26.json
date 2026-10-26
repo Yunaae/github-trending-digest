@@ -1,0 +1,193 @@
+[
+ {
+  "name": "Gathin23/cleanyourtv",
+  "gain": 34059,
+  "stars": 37391,
+  "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+  "language": "Python",
+  "created_at": "2026-10-17"
+ },
+ {
+  "name": "deepseek-ai/DeepInfer",
+  "gain": 18593,
+  "stars": 22801,
+  "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+  "language": "Python",
+  "created_at": "2026-10-16"
+ },
+ {
+  "name": "google-research/harness2",
+  "gain": 17491,
+  "stars": 19962,
+  "language": "Python",
+  "created_at": "2026-10-06"
+ },
+ {
+  "name": "cloudflare/security-audit-skill",
+  "gain": 15072,
+  "stars": 47942,
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript"
+ },
+ {
+  "name": "Ebony-Vinyl/dsh-our-free-model",
+  "gain": 14745,
+  "stars": 38097,
+  "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+  "language": "JavaScript",
+  "created_at": "2026-09-24"
+ },
+ {
+  "name": "debpalash/VoiceStudio",
+  "gain": 13851,
+  "stars": 87903,
+  "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+  "language": "Python"
+ },
+ {
+  "name": "MadsLorentzen/ai-job-search",
+  "gain": 12942,
+  "stars": 61993,
+  "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+  "language": "Python"
+ },
+ {
+  "name": "stablyai/orca",
+  "gain": 9622,
+  "stars": 106601,
+  "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+  "language": "TypeScript"
+ },
+ {
+  "name": "KnifeLemon/Filee",
+  "gain": 9580,
+  "stars": 12688,
+  "description": "Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint, HWP/HWPX, video, audio, e-books and archives. No upload, no Office needed.",
+  "language": "C#",
+  "created_at": "2026-09-29"
+ },
+ {
+  "name": "Graphify-Labs/graphify",
+  "gain": 6903,
+  "stars": 135800,
+  "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+  "language": "Python"
+ },
+ {
+  "name": "affaan-m/ECC",
+  "gain": 6345,
+  "stars": 289219,
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript"
+ },
+ {
+  "name": "storytold/photocraft",
+  "gain": 6303,
+  "stars": 73116,
+  "description": "PhotoCraft: An open-source, photo editor written by scratch in pure Rust",
+  "language": "Rust",
+  "created_at": "2026-09-30"
+ },
+ {
+  "name": "tangency-labs/solidcraft",
+  "gain": 5993,
+  "stars": 10645,
+  "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+  "language": "Rust",
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "anomalyco/opencode",
+  "gain": 5921,
+  "stars": 221781,
+  "description": "The open source coding agent.",
+  "language": "TypeScript"
+ },
+ {
+  "name": "pengchujin/aerial-tv",
+  "gain": 5772,
+  "stars": 5772,
+  "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+  "language": "Kotlin",
+  "created_at": "2026-10-20"
+ },
+ {
+  "name": "yihui-dev/awesome-opus5-5-videos",
+  "gain": 5364,
+  "stars": 11318,
+  "description": "A growing collection of viral videos made with Claude Opus 5.5 and the prompts behind them. Watch each original next to a live remake on Skillry. Updated regularly.",
+  "created_at": "2026-09-27"
+ },
+ {
+  "name": "wheresryan22/anatomy",
+  "gain": 5349,
+  "stars": 20864,
+  "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+  "language": "JavaScript",
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "simbasjungles/free-my-tv",
+  "gain": 4718,
+  "stars": 4718,
+  "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+  "language": "Java",
+  "created_at": "2026-10-19"
+ },
+ {
+  "name": "Zagitta/gpu-unlock",
+  "gain": 4015,
+  "stars": 8334,
+  "description": "Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents",
+  "language": "C",
+  "created_at": "2026-10-18"
+ },
+ {
+  "name": "lemomo-ai/lemo-opuscar",
+  "gain": 3947,
+  "stars": 6906,
+  "description": "A toolbox of film styles made in code for Claude Code: 59 ready to use, and your own. Each style is a style prompt plus a demo film made entirely in code by Claude Opus 5.5, with no video model. By Lemomo. · 一套用代码做片的风格工具箱：59 种现成风格，也能做出你自己的",
+  "language": "JavaScript",
+  "created_at": "2026-09-26"
+ },
+ {
+  "name": "JustAResearcher/gpu-unlock-ada",
+  "gain": 3477,
+  "stars": 3477,
+  "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+  "language": "C",
+  "created_at": "2026-10-23"
+ },
+ {
+  "name": "ly05010419/MacNativeGames",
+  "gain": 3360,
+  "stars": 5639,
+  "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
+  "language": "C",
+  "created_at": "2026-10-17"
+ },
+ {
+  "name": "seedds/nxnative",
+  "gain": 2820,
+  "stars": 5030,
+  "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+  "language": "Objective-C",
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "JoasASantos/REA-Prompts",
+  "gain": 2606,
+  "stars": 2606,
+  "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+  "language": "Batchfile",
+  "created_at": "2026-10-19"
+ },
+ {
+  "name": "Jakeschincariol/replica-skill",
+  "gain": 2375,
+  "stars": 5617,
+  "description": "Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, then fix what its users hate. Free, MIT.",
+  "language": "Python",
+  "created_at": "2026-10-03"
+ }
+]
