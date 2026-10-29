@@ -1,26 +1,26 @@
 Month,Rank,Project,Made by,What it does,Language,Stars gained this month,Total stars,Link
 October 2026,1,rea,morluto,"Reverse engineer anything with agents, from app behavior down to native binaries.",TypeScript,229268,332113,https://github.com/morluto/rea
-October 2026,2,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,42897,42897,https://github.com/Gathin23/cleanyourtv
-October 2026,3,DeepInfer,deepseek-ai,"DeepInfer: High-performance, large-scale inference framework for DeepSeek models",Python,23637,23637,https://github.com/deepseek-ai/DeepInfer
+October 2026,2,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,44610,44610,https://github.com/Gathin23/cleanyourtv
+October 2026,3,DeepInfer,deepseek-ai,"DeepInfer: High-performance, large-scale inference framework for DeepSeek models",Python,24145,24145,https://github.com/deepseek-ai/DeepInfer
 October 2026,4,VoiceStudio,debpalash,"VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing,…",Python,22865,87903,https://github.com/debpalash/VoiceStudio
 October 2026,5,dsh-our-free-model,Ebony-Vinyl,在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this…,JavaScript,22589,38097,https://github.com/Ebony-Vinyl/dsh-our-free-model
-October 2026,6,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,21688,21688,https://github.com/wheresryan22/anatomy
-October 2026,7,harness2,google-research,(no description),Python,20773,20773,https://github.com/google-research/harness2
-October 2026,8,wordcraft,storytold,"An open-source, clean-room reimplementation of Microsoft Word in pure Rust",Rust,16431,16431,https://github.com/storytold/wordcraft
-October 2026,9,artcraft,storytold,"ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",Rust,16379,33379,https://github.com/storytold/artcraft
-October 2026,10,math,openai,(no description),Lean,16156,16156,https://github.com/openai/math
+October 2026,6,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,22396,22396,https://github.com/wheresryan22/anatomy
+October 2026,7,harness2,google-research,(no description),Python,21203,21203,https://github.com/google-research/harness2
+October 2026,8,math,openai,(no description),Lean,17018,17018,https://github.com/openai/math
+October 2026,9,wordcraft,storytold,"An open-source, clean-room reimplementation of Microsoft Word in pure Rust",Rust,16522,16522,https://github.com/storytold/wordcraft
+October 2026,10,artcraft,storytold,"ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",Rust,16379,33379,https://github.com/storytold/artcraft
 October 2026,11,security-audit-skill,cloudflare,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,15072,47942,https://github.com/cloudflare/security-audit-skill
 October 2026,12,AnyPS5,boykopovar,Tool for automatic PS5 executables porting to Linux and Windows,C++,14224,43947,https://github.com/boykopovar/AnyPS5
 October 2026,13,ai-job-search,MadsLorentzen,"The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor…",Python,13840,61993,https://github.com/MadsLorentzen/ai-job-search
-October 2026,14,Filee,KnifeLemon,"Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint,…",C#,12533,15641,https://github.com/KnifeLemon/Filee
-October 2026,15,gpu-unlock,Zagitta,Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents,C,11903,11903,https://github.com/Zagitta/gpu-unlock
-October 2026,16,solidcraft,tangency-labs,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,11451,11451,https://github.com/tangency-labs/solidcraft
+October 2026,14,gpu-unlock,Zagitta,Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents,C,12749,12749,https://github.com/Zagitta/gpu-unlock
+October 2026,15,Filee,KnifeLemon,"Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint,…",C#,12533,15641,https://github.com/KnifeLemon/Filee
+October 2026,16,solidcraft,tangency-labs,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,11828,11828,https://github.com/tangency-labs/solidcraft
 October 2026,17,orca,stablyai,"Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own…",TypeScript,10756,106601,https://github.com/stablyai/orca
 October 2026,18,LinkSwift,hmjz100,一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘,JavaScript,9593,33763,https://github.com/hmjz100/LinkSwift
 October 2026,19,ECC,affaan-m,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development…",JavaScript,9504,290305,https://github.com/affaan-m/ECC
-October 2026,20,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Objective-C,8452,8452,https://github.com/seedds/nxnative
-October 2026,21,diagram-design,cathrynlavery,"Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types.…",HTML,7901,58182,https://github.com/cathrynlavery/diagram-design
-October 2026,22,ghidra,NationalSecurityAgency,Ghidra is a software reverse engineering (SRE) framework,Java,7602,91337,https://github.com/NationalSecurityAgency/ghidra
-October 2026,23,aerial-tv,pengchujin,"给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",Kotlin,7229,7229,https://github.com/pengchujin/aerial-tv
-October 2026,24,hallmark,Nutlope,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,7206,39910,https://github.com/Nutlope/hallmark
-October 2026,25,graphify,Graphify-Labs,"Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill…",Python,6903,135800,https://github.com/Graphify-Labs/graphify
+October 2026,20,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Objective-C,9345,9345,https://github.com/seedds/nxnative
+October 2026,21,impeccable,pbakaus,"The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI…",Rust,8028,94167,https://github.com/pbakaus/impeccable
+October 2026,22,diagram-design,cathrynlavery,"Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types.…",HTML,7901,58182,https://github.com/cathrynlavery/diagram-design
+October 2026,23,aerial-tv,pengchujin,"给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",Kotlin,7628,7628,https://github.com/pengchujin/aerial-tv
+October 2026,24,ghidra,NationalSecurityAgency,Ghidra is a software reverse engineering (SRE) framework,Java,7602,91337,https://github.com/NationalSecurityAgency/ghidra
+October 2026,25,superpowers,obra,An agentic skills framework & software development methodology that works.,Shell,7599,307906,https://github.com/obra/superpowers
