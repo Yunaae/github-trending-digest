@@ -1,29 +1,29 @@
 Month,Rank,Project,Made by,What it does,Language,Stars gained this month,Total stars,Link
-November 2026,1,t3code,pingdotgg,(no description),TypeScript,6816,40228,https://github.com/pingdotgg/t3code
-November 2026,2,dsh-superagent-prototype,deepseek-ai,Towards a More Autonomous Agent System,TypeScript,6458,11706,https://github.com/deepseek-ai/dsh-superagent-prototype
-November 2026,3,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,3351,5606,https://github.com/heydamir/unslop
-November 2026,4,claude-mem,thedotmack,"Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it…",TypeScript,3348,110314,https://github.com/thedotmack/claude-mem
-November 2026,5,Kronos,shiyu-coder,Kronos: A Foundation Model for the Language of Financial Markets,Python,3231,45786,https://github.com/shiyu-coder/Kronos
-November 2026,6,Mika,wangzan101,An on-device AI agent for Android that operates apps and the web to get things done for you.,Kotlin,2868,4971,https://github.com/wangzan101/Mika
-November 2026,7,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,2618,49890,https://github.com/Gathin23/cleanyourtv
-November 2026,8,jailbreaks,togg53192-cmd,LIST OF ALL MY JAILBREAKS,—,2588,12532,https://github.com/togg53192-cmd/jailbreaks
-November 2026,9,Claude-Code-Game-Studios,Donchitos,"Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system…",Shell,2436,33078,https://github.com/Donchitos/Claude-Code-Game-Studios
-November 2026,10,dsh-Go,ccch1mneyyy,dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。,Dart,2385,5548,https://github.com/ccch1mneyyy/dsh-Go
-November 2026,11,openidea,l0ng-ai,"The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app:…",TypeScript,2247,4592,https://github.com/l0ng-ai/openidea
-November 2026,12,agent-desktop,vercel-labs,"Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI…",Rust,2243,8237,https://github.com/vercel-labs/agent-desktop
-November 2026,13,skills,mattpocock,Skills for Real Engineers. Straight from my .agents directory.,Shell,1975,309804,https://github.com/mattpocock/skills
-November 2026,14,TokenEconomizer,microsoft,Experience-Driven Black-Box Cost Control for Coding Agents,Python,1895,4367,https://github.com/microsoft/TokenEconomizer
-November 2026,15,totk-pc-recomp,valentderah,"Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer.…",C,1623,3674,https://github.com/valentderah/totk-pc-recomp
-November 2026,16,pixelfx,patch-gg,"244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",JavaScript,1247,3251,https://github.com/patch-gg/pixelfx
-November 2026,17,ai-pose-gallery-zh,anhao,中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊,TypeScript,1063,5431,https://github.com/anhao/ai-pose-gallery-zh
-November 2026,18,ub-mode,unclebob,(no description),—,959,6471,https://github.com/unclebob/ub-mode
-November 2026,19,ziwei-doushu,Renhuai123,紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据,TypeScript,953,12747,https://github.com/Renhuai123/ziwei-doushu
-November 2026,20,OpenMausBot,milind-soni,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,928,10111,https://github.com/milind-soni/OpenMausBot
-November 2026,21,Scrapling,D4Vinci,"🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy,…",Python,892,92301,https://github.com/D4Vinci/Scrapling
-November 2026,22,FreeToken,FlashML-org,"FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",Python,886,15813,https://github.com/FlashML-org/FreeToken
-November 2026,23,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,867,24012,https://github.com/wheresryan22/anatomy
-November 2026,24,browser,lightpanda-io,Lightpanda: the headless browser designed for AI and automation,Zig,850,39613,https://github.com/lightpanda-io/browser
-November 2026,25,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Objective-C,822,11243,https://github.com/seedds/nxnative
+November 2026,1,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,16842,49890,https://github.com/Gathin23/cleanyourtv
+November 2026,2,impeccable,pbakaus,"The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI…",Rust,12017,100214,https://github.com/pbakaus/impeccable
+November 2026,3,dsh-superagent-prototype,deepseek-ai,Towards a More Autonomous Agent System,TypeScript,11706,11706,https://github.com/deepseek-ai/dsh-superagent-prototype
+November 2026,4,hallmark,Nutlope,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,11566,45713,https://github.com/Nutlope/hallmark
+November 2026,5,security-audit-skill,cloudflare,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,10069,57122,https://github.com/cloudflare/security-audit-skill
+November 2026,6,gpu-unlock,Zagitta,Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor…,C,10028,14347,https://github.com/Zagitta/gpu-unlock
+November 2026,7,DeepTutor,HKUDS,DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.,Python,9206,52238,https://github.com/HKUDS/DeepTutor
+November 2026,8,t3code,pingdotgg,(no description),TypeScript,8384,40825,https://github.com/pingdotgg/t3code
+November 2026,9,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Python,7758,11243,https://github.com/seedds/nxnative
+November 2026,10,jailbreaks,togg53192-cmd,LIST OF ALL MY JAILBREAKS,—,7701,12532,https://github.com/togg53192-cmd/jailbreaks
+November 2026,11,claude-mem,thedotmack,"Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it…",TypeScript,6518,110441,https://github.com/thedotmack/claude-mem
+November 2026,12,ECC,affaan-m,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development…",JavaScript,6299,295361,https://github.com/affaan-m/ECC
+November 2026,13,superpowers,obra,An agentic skills framework & software development methodology that works.,Shell,5896,311062,https://github.com/obra/superpowers
+November 2026,14,thinkrail,JetBrains,"Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",TypeScript,5760,7134,https://github.com/JetBrains/thinkrail
+November 2026,15,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,5606,5606,https://github.com/heydamir/unslop
+November 2026,16,ai-pose-gallery-zh,anhao,中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊,TypeScript,5431,5431,https://github.com/anhao/ai-pose-gallery-zh
+November 2026,17,Mika,wangzan101,An on-device AI agent for Android that operates apps and the web to get things done for you.,Kotlin,4971,4971,https://github.com/wangzan101/Mika
+November 2026,18,aerial-tv,pengchujin,"给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",Kotlin,4296,8961,https://github.com/pengchujin/aerial-tv
+November 2026,19,totk-pc-recomp,valentderah,"Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer.…",C,3674,3674,https://github.com/valentderah/totk-pc-recomp
+November 2026,20,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,3673,24012,https://github.com/wheresryan22/anatomy
+November 2026,21,ub-mode,unclebob,(no description),—,3315,6471,https://github.com/unclebob/ub-mode
+November 2026,22,pixelfx,patch-gg,"244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",JavaScript,3251,3251,https://github.com/patch-gg/pixelfx
+November 2026,23,Kronos,shiyu-coder,Kronos: A Foundation Model for the Language of Financial Markets,Python,3231,45786,https://github.com/shiyu-coder/Kronos
+November 2026,24,android-ad-cleaner,rddmwmddr,关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。,Python,3064,5851,https://github.com/rddmwmddr/android-ad-cleaner
+November 2026,25,learnharness,amosblomqvist,Agent harness for learning difficult things.,TypeScript,2872,4835,https://github.com/amosblomqvist/learnharness
 October 2026,1,rea,morluto,"Reverse engineer anything with agents, from app behavior down to native binaries.",TypeScript,229268,332113,https://github.com/morluto/rea
 October 2026,2,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,47272,47272,https://github.com/Gathin23/cleanyourtv
 October 2026,3,DeepInfer,deepseek-ai,"DeepInfer: High-performance, large-scale inference framework for DeepSeek models",Python,24581,24581,https://github.com/deepseek-ai/DeepInfer
@@ -37,12 +37,12 @@ October 2026,10,artcraft,storytold,"ArtCraft is an intentional crafting engine f
 October 2026,11,security-audit-skill,cloudflare,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,15072,47942,https://github.com/cloudflare/security-audit-skill
 October 2026,12,AnyPS5,boykopovar,Tool for automatic PS5 executables porting to Linux and Windows,C++,14224,43947,https://github.com/boykopovar/AnyPS5
 October 2026,13,ai-job-search,MadsLorentzen,"The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor…",Python,13840,61993,https://github.com/MadsLorentzen/ai-job-search
-October 2026,14,gpu-unlock,Zagitta,Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents,C,13611,13611,https://github.com/Zagitta/gpu-unlock
+October 2026,14,gpu-unlock,Zagitta,Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor…,C,13611,13611,https://github.com/Zagitta/gpu-unlock
 October 2026,15,Filee,KnifeLemon,"Free, open-source file converter. Convert 263 formats offline by drag & drop — images, PDF, Word, Excel, PowerPoint,…",C#,12533,15641,https://github.com/KnifeLemon/Filee
 October 2026,16,solidcraft,tangency-labs,"SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",Rust,12481,12481,https://github.com/tangency-labs/solidcraft
 October 2026,17,impeccable,pbakaus,"The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI…",Rust,11666,97633,https://github.com/pbakaus/impeccable
 October 2026,18,orca,stablyai,"Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own…",TypeScript,10756,106601,https://github.com/stablyai/orca
-October 2026,19,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Objective-C,10421,10421,https://github.com/seedds/nxnative
+October 2026,19,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Python,10421,10421,https://github.com/seedds/nxnative
 October 2026,20,LinkSwift,hmjz100,一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘,JavaScript,9593,33763,https://github.com/hmjz100/LinkSwift
 October 2026,21,ECC,affaan-m,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development…",JavaScript,9504,290305,https://github.com/affaan-m/ECC
 October 2026,22,superpowers,obra,An agentic skills framework & software development methodology that works.,Shell,9389,309696,https://github.com/obra/superpowers

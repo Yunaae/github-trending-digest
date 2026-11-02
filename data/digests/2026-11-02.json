@@ -1,0 +1,188 @@
+[
+ {
+  "name": "Gathin23/cleanyourtv",
+  "gain": 16842,
+  "stars": 49890,
+  "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+  "language": "Python",
+  "created_at": "2026-10-17"
+ },
+ {
+  "name": "pbakaus/impeccable",
+  "gain": 12017,
+  "stars": 100214,
+  "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+  "language": "Rust"
+ },
+ {
+  "name": "deepseek-ai/dsh-superagent-prototype",
+  "gain": 11706,
+  "stars": 11706,
+  "description": "Towards a More Autonomous Agent System",
+  "language": "TypeScript",
+  "created_at": "2026-10-31"
+ },
+ {
+  "name": "Nutlope/hallmark",
+  "gain": 11566,
+  "stars": 45713,
+  "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+  "language": "CSS"
+ },
+ {
+  "name": "cloudflare/security-audit-skill",
+  "gain": 10069,
+  "stars": 57122,
+  "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+  "language": "JavaScript"
+ },
+ {
+  "name": "Zagitta/gpu-unlock",
+  "gain": 10028,
+  "stars": 14347,
+  "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+  "language": "C",
+  "created_at": "2026-10-18"
+ },
+ {
+  "name": "HKUDS/DeepTutor",
+  "gain": 9206,
+  "stars": 52238,
+  "description": "DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.",
+  "language": "Python"
+ },
+ {
+  "name": "pingdotgg/t3code",
+  "gain": 8384,
+  "stars": 40825,
+  "language": "TypeScript"
+ },
+ {
+  "name": "seedds/nxnative",
+  "gain": 7758,
+  "stars": 11243,
+  "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+  "language": "Python",
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "togg53192-cmd/jailbreaks",
+  "gain": 7701,
+  "stars": 12532,
+  "description": "LIST OF ALL MY JAILBREAKS"
+ },
+ {
+  "name": "thedotmack/claude-mem",
+  "gain": 6518,
+  "stars": 110441,
+  "description": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+  "language": "TypeScript"
+ },
+ {
+  "name": "affaan-m/ECC",
+  "gain": 6299,
+  "stars": 295361,
+  "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+  "language": "JavaScript"
+ },
+ {
+  "name": "obra/superpowers",
+  "gain": 5896,
+  "stars": 311062,
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell"
+ },
+ {
+  "name": "JetBrains/thinkrail",
+  "gain": 5760,
+  "stars": 7134,
+  "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+  "language": "TypeScript"
+ },
+ {
+  "name": "heydamir/unslop",
+  "gain": 5606,
+  "stars": 5606,
+  "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+  "language": "JavaScript",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "anhao/ai-pose-gallery-zh",
+  "gain": 5431,
+  "stars": 5431,
+  "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+  "language": "TypeScript",
+  "created_at": "2026-10-27"
+ },
+ {
+  "name": "wangzan101/Mika",
+  "gain": 4971,
+  "stars": 4971,
+  "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+  "language": "Kotlin",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "pengchujin/aerial-tv",
+  "gain": 4296,
+  "stars": 8961,
+  "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+  "language": "Kotlin",
+  "created_at": "2026-10-20"
+ },
+ {
+  "name": "valentderah/totk-pc-recomp",
+  "gain": 3674,
+  "stars": 3674,
+  "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer. Game files not included.",
+  "language": "C",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "wheresryan22/anatomy",
+  "gain": 3673,
+  "stars": 24012,
+  "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+  "language": "JavaScript",
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "unclebob/ub-mode",
+  "gain": 3315,
+  "stars": 6471,
+  "created_at": "2026-10-25"
+ },
+ {
+  "name": "patch-gg/pixelfx",
+  "gain": 3251,
+  "stars": 3251,
+  "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+  "language": "JavaScript",
+  "created_at": "2026-10-30"
+ },
+ {
+  "name": "rddmwmddr/android-ad-cleaner",
+  "gain": 3064,
+  "stars": 5851,
+  "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+  "language": "Python",
+  "created_at": "2026-10-24"
+ },
+ {
+  "name": "amosblomqvist/learnharness",
+  "gain": 2872,
+  "stars": 4835,
+  "description": "Agent harness for learning difficult things.",
+  "language": "TypeScript",
+  "created_at": "2026-10-16"
+ },
+ {
+  "name": "deepseek-ai/DeepInfer",
+  "gain": 2866,
+  "stars": 24985,
+  "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+  "language": "Python",
+  "created_at": "2026-10-16"
+ }
+]
