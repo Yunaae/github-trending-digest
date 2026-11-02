@@ -1,29 +1,29 @@
 Month,Rank,Project,Made by,What it does,Language,Stars gained this month,Total stars,Link
-November 2026,1,t3code,pingdotgg,(no description),TypeScript,3164,36576,https://github.com/pingdotgg/t3code
-November 2026,2,jailbreaks,togg53192-cmd,LIST OF ALL MY JAILBREAKS,—,2588,12532,https://github.com/togg53192-cmd/jailbreaks
-November 2026,3,Kronos,shiyu-coder,Kronos: A Foundation Model for the Language of Financial Markets,Python,2382,44937,https://github.com/shiyu-coder/Kronos
-November 2026,4,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,1897,4152,https://github.com/heydamir/unslop
-November 2026,5,claude-mem,thedotmack,"Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it…",TypeScript,1527,108488,https://github.com/thedotmack/claude-mem
-November 2026,6,Mika,wangzan101,An on-device AI agent for Android that operates apps and the web to get things done for you.,Kotlin,1224,3327,https://github.com/wangzan101/Mika
-November 2026,7,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,1157,48429,https://github.com/Gathin23/cleanyourtv
-November 2026,8,dsh-Go,ccch1mneyyy,dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。,Dart,1046,4209,https://github.com/ccch1mneyyy/dsh-Go
-November 2026,9,TokenEconomizer,microsoft,Experience-Driven Black-Box Cost Control for Coding Agents,Python,1015,3487,https://github.com/microsoft/TokenEconomizer
-November 2026,10,Claude-Code-Game-Studios,Donchitos,"Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system…",Shell,1002,31644,https://github.com/Donchitos/Claude-Code-Game-Studios
-November 2026,11,ziwei-doushu,Renhuai123,紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据,TypeScript,953,12747,https://github.com/Renhuai123/ziwei-doushu
-November 2026,12,OpenMausBot,milind-soni,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,928,10111,https://github.com/milind-soni/OpenMausBot
-November 2026,13,browser,lightpanda-io,Lightpanda: the headless browser designed for AI and automation,Zig,850,39613,https://github.com/lightpanda-io/browser
-November 2026,14,totk-pc-recomp,valentderah,"Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer.…",C,829,2880,https://github.com/valentderah/totk-pc-recomp
-November 2026,15,OpenBot,CopilotKit,"Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided…",TypeScript,779,9229,https://github.com/CopilotKit/OpenBot
-November 2026,16,ai-pose-gallery-zh,anhao,中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊,TypeScript,626,4994,https://github.com/anhao/ai-pose-gallery-zh
-November 2026,17,Handy,cjpais,"A free, open source, and extensible speech-to-text application that works completely offline.",Rust,611,36063,https://github.com/cjpais/Handy
-November 2026,18,ai-engineering-hub,patchy631,"In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",Jupyter Notebook,573,39789,https://github.com/patchy631/ai-engineering-hub
-November 2026,19,ub-mode,unclebob,(no description),—,569,6081,https://github.com/unclebob/ub-mode
-November 2026,20,TwinDesk,InukaAsith,"All your computers and your phone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications,…",JavaScript,441,2588,https://github.com/InukaAsith/TwinDesk
-November 2026,21,AiSOC,beenuar,"Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&CK investigation, and a replayable…",Python,436,5866,https://github.com/beenuar/AiSOC
-November 2026,22,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,422,23567,https://github.com/wheresryan22/anatomy
-November 2026,23,horizon,horizon-rust,"Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses.…",Rust,416,5517,https://github.com/horizon-rust/horizon
-November 2026,24,gpu-unlock,Zagitta,Unlock FP/BF16 instruction issue rate on Nvidia 3000's cards to their professional equivalents,C,374,13985,https://github.com/Zagitta/gpu-unlock
-November 2026,25,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Objective-C,361,10782,https://github.com/seedds/nxnative
+November 2026,1,t3code,pingdotgg,(no description),TypeScript,6816,40228,https://github.com/pingdotgg/t3code
+November 2026,2,dsh-superagent-prototype,deepseek-ai,Towards a More Autonomous Agent System,TypeScript,6458,11706,https://github.com/deepseek-ai/dsh-superagent-prototype
+November 2026,3,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,3351,5606,https://github.com/heydamir/unslop
+November 2026,4,claude-mem,thedotmack,"Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it…",TypeScript,3348,110314,https://github.com/thedotmack/claude-mem
+November 2026,5,Kronos,shiyu-coder,Kronos: A Foundation Model for the Language of Financial Markets,Python,3231,45786,https://github.com/shiyu-coder/Kronos
+November 2026,6,Mika,wangzan101,An on-device AI agent for Android that operates apps and the web to get things done for you.,Kotlin,2868,4971,https://github.com/wangzan101/Mika
+November 2026,7,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,2618,49890,https://github.com/Gathin23/cleanyourtv
+November 2026,8,jailbreaks,togg53192-cmd,LIST OF ALL MY JAILBREAKS,—,2588,12532,https://github.com/togg53192-cmd/jailbreaks
+November 2026,9,Claude-Code-Game-Studios,Donchitos,"Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system…",Shell,2436,33078,https://github.com/Donchitos/Claude-Code-Game-Studios
+November 2026,10,dsh-Go,ccch1mneyyy,dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。,Dart,2385,5548,https://github.com/ccch1mneyyy/dsh-Go
+November 2026,11,openidea,l0ng-ai,"The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app:…",TypeScript,2247,4592,https://github.com/l0ng-ai/openidea
+November 2026,12,agent-desktop,vercel-labs,"Agent Desktop gives any agent reliable computer use on the desktop. Built with Rust, it sees any app's real UI…",Rust,2243,8237,https://github.com/vercel-labs/agent-desktop
+November 2026,13,skills,mattpocock,Skills for Real Engineers. Straight from my .agents directory.,Shell,1975,309804,https://github.com/mattpocock/skills
+November 2026,14,TokenEconomizer,microsoft,Experience-Driven Black-Box Cost Control for Coding Agents,Python,1895,4367,https://github.com/microsoft/TokenEconomizer
+November 2026,15,totk-pc-recomp,valentderah,"Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows x86-64, with a Vulkan renderer.…",C,1623,3674,https://github.com/valentderah/totk-pc-recomp
+November 2026,16,pixelfx,patch-gg,"244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",JavaScript,1247,3251,https://github.com/patch-gg/pixelfx
+November 2026,17,ai-pose-gallery-zh,anhao,中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊,TypeScript,1063,5431,https://github.com/anhao/ai-pose-gallery-zh
+November 2026,18,ub-mode,unclebob,(no description),—,959,6471,https://github.com/unclebob/ub-mode
+November 2026,19,ziwei-doushu,Renhuai123,紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据,TypeScript,953,12747,https://github.com/Renhuai123/ziwei-doushu
+November 2026,20,OpenMausBot,milind-soni,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,928,10111,https://github.com/milind-soni/OpenMausBot
+November 2026,21,Scrapling,D4Vinci,"🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy,…",Python,892,92301,https://github.com/D4Vinci/Scrapling
+November 2026,22,FreeToken,FlashML-org,"FreeToken brings datacenter-scale model serving to your desktop. Run massive models locally, fast and efficiently.",Python,886,15813,https://github.com/FlashML-org/FreeToken
+November 2026,23,anatomy,wheresryan22,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems.…",JavaScript,867,24012,https://github.com/wheresryan22/anatomy
+November 2026,24,browser,lightpanda-io,Lightpanda: the headless browser designed for AI and automation,Zig,850,39613,https://github.com/lightpanda-io/browser
+November 2026,25,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Objective-C,822,11243,https://github.com/seedds/nxnative
 October 2026,1,rea,morluto,"Reverse engineer anything with agents, from app behavior down to native binaries.",TypeScript,229268,332113,https://github.com/morluto/rea
 October 2026,2,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,47272,47272,https://github.com/Gathin23/cleanyourtv
 October 2026,3,DeepInfer,deepseek-ai,"DeepInfer: High-performance, large-scale inference framework for DeepSeek models",Python,24581,24581,https://github.com/deepseek-ai/DeepInfer
