@@ -1,0 +1,822 @@
+[
+ {
+  "name": "ARahim3/DigUp",
+  "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2.",
+  "language": "Swift",
+  "stars": 6257,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "AhmadHassan-BTed/.github",
+  "description": "",
+  "language": "HTML",
+  "stars": 4025,
+  "created_at": "2026-10-09"
+ },
+ {
+  "name": "Ansub/tv-detox",
+  "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the prompt to clean it up",
+  "language": "Java",
+  "stars": 2188,
+  "created_at": "2026-10-18"
+ },
+ {
+  "name": "Arekejoker/qwen21-nsfw-pose-skill",
+  "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
+  "language": "Python",
+  "stars": 4161,
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "BryceYuuu/RUN",
+  "description": "RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区）",
+  "language": "Python",
+  "stars": 3897,
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "ConardLi/garden-skills",
+  "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+  "language": "JavaScript",
+  "stars": 13968,
+  "stars_today": 181,
+  "trending": true
+ },
+ {
+  "name": "CopilotKit/OpenDuet",
+  "description": "An Open Source template for a proactive AI agent that gets your work done and keeps you in the loop.",
+  "language": "TypeScript",
+  "stars": 1954,
+  "created_at": "2026-10-21"
+ },
+ {
+  "name": "D4Vinci/Scrapling",
+  "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here:https://discord.gg/EMgGbDceNQand follow here for daily tips and tricks:https://x.com/Scrapling_dev",
+  "language": "Python",
+  "stars": 97442,
+  "stars_today": 1661,
+  "trending": true
+ },
+ {
+  "name": "DenisSergeevitch/ex-ussr-kinship-research",
+  "description": "Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, civil, military, deportation and repression records across the former USSR. Replies in your language.",
+  "language": "Python",
+  "stars": 1943,
+  "created_at": "2026-10-25"
+ },
+ {
+  "name": "Djihads80/Eglantine",
+  "description": "VERY experimental Nintendo Switch 2 emulator",
+  "language": "C++",
+  "stars": 4093,
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "EthanArbuckle/fairplay-decrypt",
+  "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
+  "language": "C",
+  "stars": 2359,
+  "created_at": "2026-10-19"
+ },
+ {
+  "name": "Fei2411/DS-Bot",
+  "description": "A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.",
+  "language": "JavaScript",
+  "stars": 5694,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "Gathin23/cleanyourtv",
+  "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+  "language": "Python",
+  "stars": 52360,
+  "created_at": "2026-10-17"
+ },
+ {
+  "name": "HelixDB/helix-foundry",
+  "description": "Connect your company's data, let an agent draft an ontology over it, and load it into HelixDB as one graph you can explore and ask questions of. Hosted at foundry.helix-db.com, or run it on your own machine.",
+  "language": "Go",
+  "stars": 2053,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "HeyPuter/everything",
+  "description": "We're rebuilding and open-sourcing the world’s software from scratch.",
+  "language": "JavaScript",
+  "stars": 7254,
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "InukaAsith/TwinDesk",
+  "description": " All your computers and your phone, working as one desk. Screens, apps, files, clipboard, calls, texts, notifications, mouse and keyboard, shared between Mac, Windows, Linux and Android. Free and open source. No account, no cloud, and now no shared network needed.",
+  "language": "JavaScript",
+  "stars": 3481,
+  "created_at": "2026-10-14"
+ },
+ {
+  "name": "Jakeschincariol/day-trader-skill",
+  "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry and exit, and replay every outcome before you risk a dollar.",
+  "language": "Python",
+  "stars": 5454,
+  "created_at": "2026-10-20"
+ },
+ {
+  "name": "Jakeschincariol/founder-skill",
+  "description": "Eleven free Claude skills that test a business before you launch it: a board trained on Hormozi, Thiel and Jobs, a marketing director, a CFO, and a consumer panel of 100 buyer agents. Free, MIT.",
+  "language": "Python",
+  "stars": 2471,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "JiaFeiMiao-K-Cat/DiscImageStudio",
+  "description": "",
+  "language": "C#",
+  "stars": 7030,
+  "stars_today": 977,
+  "trending": true
+ },
+ {
+  "name": "JoasASantos/REA-Prompts",
+  "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or break down any program",
+  "language": "Batchfile",
+  "stars": 3627,
+  "created_at": "2026-10-19"
+ },
+ {
+  "name": "JustAResearcher/gpu-unlock-ada",
+  "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+  "language": "C",
+  "stars": 4781,
+  "created_at": "2026-10-23"
+ },
+ {
+  "name": "KKKKhazix/agent-autoloop",
+  "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+  "language": "TypeScript",
+  "stars": 3074,
+  "created_at": "2026-11-03"
+ },
+ {
+  "name": "LNPANDY/NX2Apple",
+  "description": "Play your own Switch games on iPhone/iPad — one-click macOS app, no terminal. | 把 Switch 游戏装进 iPhone：图形界面一键构建，不用命令行。Bring your own game.",
+  "language": "Swift",
+  "stars": 3640,
+  "created_at": "2026-10-20"
+ },
+ {
+  "name": "Leonxlnx/earshot",
+  "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+  "language": "Python",
+  "stars": 3952,
+  "created_at": "2026-10-15"
+ },
+ {
+  "name": "LoreanXavier/pt-pc",
+  "description": "Native PC port of P.T. (runs from your own PS4 game files)",
+  "language": "C++",
+  "stars": 2403,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "NVIDIA-Omniverse/usd-brep",
+  "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid modeling",
+  "language": "C++",
+  "stars": 2004,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "NVIDIA/auto-ontology",
+  "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+  "language": "Python",
+  "stars": 6501,
+  "stars_today": 2707,
+  "trending": true
+ },
+ {
+  "name": "OpenMOSS/MOSS-Image",
+  "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+  "language": "Python",
+  "stars": 2632,
+  "created_at": "2026-10-16"
+ },
+ {
+  "name": "Revivedx/SavageWindRecomp",
+  "description": "Work-in-progress static recompilation of The Legend of Zelda: Breath of the Wild (Switch, v1.9.0) for Windows and Linux. Bring your own dump: no game files, keys or dumping tools included.",
+  "language": "C",
+  "stars": 3159,
+  "created_at": "2026-10-16"
+ },
+ {
+  "name": "SubmitGame/awesome-decomp-games",
+  "description": "Rated, auto-refreshed list of decompiled, recompiled & reverse-engineered games: decomps, static recomps, source ports, engine remakes, browser ports.",
+  "language": "Python",
+  "stars": 2877,
+  "created_at": "2026-10-09"
+ },
+ {
+  "name": "Supermedo/uncharted_pc",
+  "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+  "language": "C++",
+  "stars": 2195,
+  "created_at": "2026-10-15"
+ },
+ {
+  "name": "T-Auto/dsh-ops",
+  "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+  "language": "JavaScript",
+  "stars": 5271,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "Tencent-Hunyuan/Hy-Memory",
+  "description": "",
+  "language": "Python",
+  "stars": 1959,
+  "created_at": "2026-10-15"
+ },
+ {
+  "name": "UniXNU/UniXNU",
+  "description": "Run iOS and macOS on non-Apple ARM64 hardware through UEFI.",
+  "language": "Python",
+  "stars": 2042,
+  "created_at": "2026-10-19"
+ },
+ {
+  "name": "Usagi-org/ai-goofish-monitor",
+  "description": "基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。",
+  "language": "Python",
+  "stars": 17344,
+  "stars_today": 242,
+  "trending": true
+ },
+ {
+  "name": "Verlintas/NOIR",
+  "description": "手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: permissions, endpoints, data flows, reversible fixes.",
+  "language": "Kotlin",
+  "stars": 2366,
+  "created_at": "2026-10-31"
+ },
+ {
+  "name": "Zagitta/gpu-unlock",
+  "description": "Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor throughput",
+  "language": "C",
+  "stars": 16972,
+  "created_at": "2026-10-18"
+ },
+ {
+  "name": "ahwootech/BRUTAL",
+  "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native APIs and Vulkan, with the low-level libraries around them. The foundation under Kitten Space Agency and RimWorld's Waylith engine.",
+  "language": "C#",
+  "stars": 2366,
+  "created_at": "2026-10-14"
+ },
+ {
+  "name": "aicodeking/leanrea",
+  "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: 38% faster, 35% cheaper.",
+  "language": "Python",
+  "stars": 4015,
+  "created_at": "2026-10-17"
+ },
+ {
+  "name": "alchaincyf/huashu-motion",
+  "description": "让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding agent — point at the frame to change it.",
+  "language": "JavaScript",
+  "stars": 2392,
+  "created_at": "2026-10-18"
+ },
+ {
+  "name": "alejandrobujan/tendedero",
+  "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the top of your screen.",
+  "language": "Swift",
+  "stars": 3035,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "amosblomqvist/learnharness",
+  "description": "Agent harness for learning difficult things.",
+  "language": "TypeScript",
+  "stars": 5471,
+  "created_at": "2026-10-16"
+ },
+ {
+  "name": "anhao/ai-pose-gallery-zh",
+  "description": "中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊",
+  "language": "TypeScript",
+  "stars": 6046,
+  "created_at": "2026-10-27"
+ },
+ {
+  "name": "benjitaylor/skills",
+  "description": "Skills for AI coding agents.",
+  "language": "TypeScript",
+  "stars": 2046,
+  "created_at": "2026-10-26"
+ },
+ {
+  "name": "ccch1mneyyy/dsh-Go",
+  "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+  "language": "Dart",
+  "stars": 10947,
+  "created_at": "2026-10-25"
+ },
+ {
+  "name": "chenglou/handwired",
+  "description": "Turn your regular JavaScript code into a neural net.",
+  "language": "TypeScript",
+  "stars": 2121,
+  "created_at": "2026-10-15"
+ },
+ {
+  "name": "cranebeaker/coop-anything",
+  "description": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share what it learns.",
+  "language": "Python",
+  "stars": 1901,
+  "created_at": "2026-10-16"
+ },
+ {
+  "name": "ctresb/leis",
+  "description": "Todas as leis do Brasil",
+  "language": "",
+  "stars": 2526,
+  "created_at": "2026-10-15"
+ },
+ {
+  "name": "deeplethe/solid-glass",
+  "description": "A design system for AI applications. Material, physical, tactile, technical.",
+  "language": "TypeScript",
+  "stars": 2041,
+  "created_at": "2026-10-12"
+ },
+ {
+  "name": "deepseek-ai/DeepInfer",
+  "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+  "language": "Python",
+  "stars": 25446,
+  "created_at": "2026-10-16"
+ },
+ {
+  "name": "deepseek-ai/dsh-superagent-prototype",
+  "description": "Towards a More Autonomous Agent System",
+  "language": "TypeScript",
+  "stars": 19236,
+  "created_at": "2026-10-31"
+ },
+ {
+  "name": "designfuchen/word-atlas",
+  "description": "词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-source app + CC BY 4.0 dataset.",
+  "language": "TypeScript",
+  "stars": 4232,
+  "created_at": "2026-10-25"
+ },
+ {
+  "name": "elvarofficial/teardown",
+  "description": "A Claude Code skill that turns any machine into a 3D simulator you can take apart",
+  "language": "JavaScript",
+  "stars": 2062,
+  "created_at": "2026-10-30"
+ },
+ {
+  "name": "floci-io/floci",
+  "description": "Light, fluffy, and always free - The AWS Local Emulator alternative",
+  "language": "Java",
+  "stars": 30048,
+  "stars_today": 784,
+  "trending": true
+ },
+ {
+  "name": "garrytan/gstack",
+  "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+  "language": "TypeScript",
+  "stars": 139674,
+  "stars_today": 608,
+  "trending": true
+ },
+ {
+  "name": "google/skills",
+  "description": "Agent Skills for Google products and technologies",
+  "language": "Python",
+  "stars": 22133,
+  "stars_today": 199,
+  "trending": true
+ },
+ {
+  "name": "haydenschmitty/floorplan",
+  "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+  "language": "JavaScript",
+  "stars": 2940,
+  "created_at": "2026-10-27"
+ },
+ {
+  "name": "herdrdev/herdr-app",
+  "description": "herdr desktop app",
+  "language": "Rust",
+  "stars": 2029,
+  "created_at": "2026-10-16"
+ },
+ {
+  "name": "heydamir/unslop",
+  "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+  "language": "JavaScript",
+  "stars": 9239,
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "humblemuzzu/dumbtv",
+  "description": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. Comes with its own open-source home screen.",
+  "language": "Java",
+  "stars": 1949,
+  "created_at": "2026-10-18"
+ },
+ {
+  "name": "ikow/php2shell-poc",
+  "description": "CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.upload_progress pre-auth exploit research.",
+  "language": "Python",
+  "stars": 1937,
+  "created_at": "2026-10-21"
+ },
+ {
+  "name": "indexable-inc/blaze",
+  "description": "Incremental rust builds up to 92x faster than cargo/rustc",
+  "language": "Rust",
+  "stars": 1998,
+  "created_at": "2026-10-19"
+ },
+ {
+  "name": "interplains/Zero-Breach-Toolkit",
+  "description": "Free, open-source check for traces of mercenary spyware (Pegasus, Predator, Graphite, Candiru and more) on computers, Android phones and iPhone backups. Double-click apps for Windows, Mac and Linux, in 27 languages.",
+  "language": "Python",
+  "stars": 4452,
+  "created_at": "2026-10-25"
+ },
+ {
+  "name": "jhaizhou-ops/d2r-mobile",
+  "description": "Open-source compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad, Mac, Android and HarmonyOS — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS / 安卓 / 鸿蒙兼容层",
+  "language": "C",
+  "stars": 5145,
+  "created_at": "2026-10-12"
+ },
+ {
+  "name": "kingcharleslzy-ai/dsh-purge",
+  "description": "dsh-purge Community · DeepSeek Harness 社区维护版：宿主兼容、状态诊断、提示词管理、更新与本机备份回滚。基于小杨 / YuJunZhiXue 的 dsh-purge。",
+  "language": "JavaScript",
+  "stars": 4580,
+  "created_at": "2026-10-16"
+ },
+ {
+  "name": "l0ng-ai/openidea",
+  "description": "The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app: editor, code insight, debugger, Git, terminal, database and HTTP clients for 60+ languages.",
+  "language": "TypeScript",
+  "stars": 6604,
+  "created_at": "2026-10-21"
+ },
+ {
+  "name": "liseami/CCBaga",
+  "description": "",
+  "language": "Rust",
+  "stars": 3439,
+  "created_at": "2026-10-11"
+ },
+ {
+  "name": "ly05010419/MacNativeGames",
+  "description": "Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own game.",
+  "language": "C",
+  "stars": 7082,
+  "created_at": "2026-10-17"
+ },
+ {
+  "name": "lyramakesmusic/neuron-explorer",
+  "description": "Steering-first neuron explorer for Qwen3.5-4B: push every MLP neuron, keep every rollout, browse the results",
+  "language": "Python",
+  "stars": 1926,
+  "created_at": "2026-10-21"
+ },
+ {
+  "name": "lz4/lz4",
+  "description": "Extremely Fast Compression algorithm",
+  "language": "C",
+  "stars": 12248,
+  "stars_today": 16,
+  "trending": true
+ },
+ {
+  "name": "mattpocock/skills",
+  "description": "Skills for Real Engineers. Straight from my .agents directory.",
+  "language": "Shell",
+  "stars": 314343,
+  "stars_today": 2053,
+  "trending": true
+ },
+ {
+  "name": "max-sixty/worktrunk",
+  "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
+  "language": "Rust",
+  "stars": 11334,
+  "stars_today": 546,
+  "trending": true
+ },
+ {
+  "name": "microsoft/TokenEconomizer",
+  "description": "Experience-Driven Black-Box Cost Control for Coding Agents",
+  "language": "Python",
+  "stars": 4820,
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "microsoft/VibeVoice",
+  "description": "Open-Source Frontier Voice AI",
+  "language": "Python",
+  "stars": 55443,
+  "stars_today": 214,
+  "trending": true
+ },
+ {
+  "name": "mmparko/dsh-purge",
+  "description": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
+  "language": "JavaScript",
+  "stars": 3150,
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "modelflare-ai/AnyModelBot",
+  "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+  "language": "Python",
+  "stars": 2709,
+  "created_at": "2026-10-27"
+ },
+ {
+  "name": "nateherkai/roast-room",
+  "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+  "language": "JavaScript",
+  "stars": 1896,
+  "created_at": "2026-10-10"
+ },
+ {
+  "name": "net-merge/net-merge",
+  "description": "Use all your internet connections at once on Windows, macOS, Linux and Android: per-connection load balancing over Wi-Fi, Ethernet, mobile data and phone tethers",
+  "language": "Go",
+  "stars": 2893,
+  "created_at": "2026-10-12"
+ },
+ {
+  "name": "noahdunnagan/fsearch",
+  "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M files.",
+  "language": "Rust",
+  "stars": 2218,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "nullmoth/nvidia-macos-driver",
+  "description": "Metal driver for NVIDIA GeForce cards on macOS Sequoia",
+  "language": "Rust",
+  "stars": 4141,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "onehumanbeing/esp32-iphone-agent",
+  "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+  "language": "Swift",
+  "stars": 4422,
+  "created_at": "2026-10-11"
+ },
+ {
+  "name": "oosexgang/hakios-xnu-kernel",
+  "description": "Apple's open-source XNU kernel on Android phones: its own loader and drivers, Metal on the Adreno. Runs from RAM; a reboot gives the phone back to Android.",
+  "language": "C",
+  "stars": 2499,
+  "created_at": "2026-10-22"
+ },
+ {
+  "name": "opengeos/RustGIS",
+  "description": "A fast, free and open-source GIS in pure Rust.",
+  "language": "Rust",
+  "stars": 2331,
+  "created_at": "2026-10-10"
+ },
+ {
+  "name": "oscar-soirey/Raven",
+  "description": "A lightweight, multithreaded GUI library in C for editors and tools. For C, Rust, C++, C#, Java, Python, Zig, Lua, Go, Odin",
+  "language": "C",
+  "stars": 1923,
+  "created_at": "2026-10-09"
+ },
+ {
+  "name": "paipiange/nvzhuang",
+  "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+  "language": "HTML",
+  "stars": 2246,
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "patch-gg/pixelfx",
+  "description": "244 pixel art effects, every one a small piece of code. Plus a Claude Code skill to make your own.",
+  "language": "JavaScript",
+  "stars": 5117,
+  "created_at": "2026-10-30"
+ },
+ {
+  "name": "peiikai/LASRecomp",
+  "description": "Static recompilation of Link's Awakening (Switch) to native macOS, Windows and Linux",
+  "language": "C",
+  "stars": 2140,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "pengchujin/aerial-tv",
+  "description": "给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for Xiaomi, TCL and other China-market TVs.",
+  "language": "Kotlin",
+  "stars": 9899,
+  "created_at": "2026-10-20"
+ },
+ {
+  "name": "qybaihe/bla",
+  "description": "🛡️ BLA (Blind LLM Agents) — Adversarial defense shield that protects binaries, Electron apps, JS bundles, Python, and WebAssembly against AI reverse-engineering agents like REA. Poison -> Exhaust -> Hallucinate.",
+  "language": "TypeScript",
+  "stars": 2404,
+  "created_at": "2026-10-25"
+ },
+ {
+  "name": "rddmwmddr/android-ad-cleaner",
+  "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+  "language": "Python",
+  "stars": 6508,
+  "created_at": "2026-10-24"
+ },
+ {
+  "name": "scenario-labs/skills",
+  "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+  "language": "Python",
+  "stars": 2790,
+  "stars_today": 674,
+  "trending": true
+ },
+ {
+  "name": "seedds/nxnative",
+  "description": "Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE host, NVN→Metal)",
+  "language": "Python",
+  "stars": 12352,
+  "created_at": "2026-10-13"
+ },
+ {
+  "name": "shaongitbd/doory",
+  "description": "Open source canva alternative",
+  "language": "TypeScript",
+  "stars": 2310,
+  "created_at": "2026-10-10"
+ },
+ {
+  "name": "simbasjungles/free-my-tv",
+  "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
+  "language": "Java",
+  "stars": 5905,
+  "created_at": "2026-10-19"
+ },
+ {
+  "name": "storytold/cadcraft",
+  "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
+  "language": "Rust",
+  "stars": 7677,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "storytold/craft-anything",
+  "description": "Craft Anything: understand how any software works, and craft your own.",
+  "language": "Rust",
+  "stars": 13987,
+  "created_at": "2026-10-31"
+ },
+ {
+  "name": "storytold/craft-launcher",
+  "description": "The Craft App Launcher",
+  "language": "Rust",
+  "stars": 4965,
+  "created_at": "2026-10-09"
+ },
+ {
+  "name": "storytold/deckcraft",
+  "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint in pure Rust. Part of the ArtCraft Crafting Apps.",
+  "language": "Rust",
+  "stars": 4618,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "storytold/figcraft",
+  "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust",
+  "language": "Rust",
+  "stars": 4362,
+  "created_at": "2026-10-09"
+ },
+ {
+  "name": "storytold/gridcraft",
+  "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+  "language": "Rust",
+  "stars": 7184,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "storytold/soundcraft",
+  "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+  "language": "Rust",
+  "stars": 4096,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "storytold/wordcraft",
+  "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+  "language": "Rust",
+  "stars": 17360,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "t3dotgg/tstack",
+  "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+  "language": "Python",
+  "stars": 3039,
+  "created_at": "2026-10-24"
+ },
+ {
+  "name": "t4t5/owly",
+  "description": "airdrop for non-apple devices",
+  "language": "Rust",
+  "stars": 3287,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "tangency-labs/solidcraft",
+  "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
+  "language": "Rust",
+  "stars": 13984,
+  "created_at": "2026-10-07"
+ },
+ {
+  "name": "unclebob/ub-mode",
+  "description": "",
+  "language": "",
+  "stars": 7059,
+  "created_at": "2026-10-25"
+ },
+ {
+  "name": "valentderah/totk-pc-recomp",
+  "description": "Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Windows and Linux x86-64, with a Vulkan renderer. Game files not included.",
+  "language": "C",
+  "stars": 5030,
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "vercel-labs/agent-browser",
+  "description": "Browser automation CLI for AI agents",
+  "language": "Rust",
+  "stars": 45650,
+  "stars_today": 132,
+  "trending": true
+ },
+ {
+  "name": "vercel-labs/agent-desktop",
+  "description": "Computer use CLI for AI agents",
+  "language": "Rust",
+  "stars": 16237,
+  "stars_today": 2173,
+  "trending": true
+ },
+ {
+  "name": "wangzan101/Mika",
+  "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+  "language": "Kotlin",
+  "stars": 6972,
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "wesbos/3d-model-anything",
+  "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+  "language": "Swift",
+  "stars": 2785,
+  "created_at": "2026-10-21"
+ },
+ {
+  "name": "wheresryan22/anatomy",
+  "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+  "language": "JavaScript",
+  "stars": 25121,
+  "created_at": "2026-10-08"
+ },
+ {
+  "name": "xevrion/hatchzip",
+  "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z, RAR, tar and split archives in place, so it needs free space for the extracted files only. Desktop app and CLI.",
+  "language": "Rust",
+  "stars": 2529,
+  "created_at": "2026-10-21"
+ },
+ {
+  "name": "xiaoyang111222/cn-math-taxonomy",
+  "description": "数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。",
+  "language": "Python",
+  "stars": 6737,
+  "created_at": "2026-10-18"
+ },
+ {
+  "name": "zhuyansen/new-term-radar",
+  "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+  "language": "Python",
+  "stars": 2111,
+  "created_at": "2026-10-12"
+ }
+]
