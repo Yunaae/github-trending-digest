@@ -1,29 +1,29 @@
 Month,Rank,Project,Made by,What it does,Language,Stars gained this month,Total stars,Link
-November 2026,1,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,16842,53581,https://github.com/Gathin23/cleanyourtv
-November 2026,2,security-audit-skill,cloudflare,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,16839,64781,https://github.com/cloudflare/security-audit-skill
-November 2026,3,craft-anything,storytold,"Craft Anything: understand how any software works, and craft your own.",Rust,16738,19375,https://github.com/storytold/craft-anything
-November 2026,4,dsh-superagent-prototype,deepseek-ai,Towards a More Autonomous Agent System,TypeScript,15331,20579,https://github.com/deepseek-ai/dsh-superagent-prototype
-November 2026,5,impeccable,pbakaus,"The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI…",Rust,12017,100214,https://github.com/pbakaus/impeccable
-November 2026,6,hallmark,Nutlope,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,11566,45713,https://github.com/Nutlope/hallmark
-November 2026,7,agent-desktop,vercel-labs,Computer use CLI for AI agents,Rust,10671,16237,https://github.com/vercel-labs/agent-desktop
-November 2026,8,dsh-Go,ccch1mneyyy,dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。,Dart,10386,13549,https://github.com/ccch1mneyyy/dsh-Go
-November 2026,9,gpu-unlock,Zagitta,Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor…,C,10028,17727,https://github.com/Zagitta/gpu-unlock
-November 2026,10,skills,mattpocock,Skills for Real Engineers. Straight from my .agents directory.,Shell,9330,317159,https://github.com/mattpocock/skills
-November 2026,11,DeepTutor,HKUDS,DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.,Python,9206,52238,https://github.com/HKUDS/DeepTutor
-November 2026,12,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,8806,11061,https://github.com/heydamir/unslop
-November 2026,13,t3code,pingdotgg,(no description),TypeScript,8384,40825,https://github.com/pingdotgg/t3code
-November 2026,14,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Python,7758,13158,https://github.com/seedds/nxnative
-November 2026,15,jailbreaks,togg53192-cmd,LIST OF ALL MY JAILBREAKS,—,7701,12532,https://github.com/togg53192-cmd/jailbreaks
-November 2026,16,OpenMausBot,milind-soni,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,7008,16191,https://github.com/milind-soni/OpenMausBot
+November 2026,1,craft-anything,storytold,"Craft Anything: understand how any software works, and craft your own.",Rust,19122,21759,https://github.com/storytold/craft-anything
+November 2026,2,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,16842,54265,https://github.com/Gathin23/cleanyourtv
+November 2026,3,security-audit-skill,cloudflare,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,16839,64781,https://github.com/cloudflare/security-audit-skill
+November 2026,4,dsh-superagent-prototype,deepseek-ai,Towards a More Autonomous Agent System,TypeScript,15792,21040,https://github.com/deepseek-ai/dsh-superagent-prototype
+November 2026,5,dsh-Go,ccch1mneyyy,dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。,Dart,12267,15430,https://github.com/ccch1mneyyy/dsh-Go
+November 2026,6,impeccable,pbakaus,"The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI…",Rust,12017,100214,https://github.com/pbakaus/impeccable
+November 2026,7,hallmark,Nutlope,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,11566,45713,https://github.com/Nutlope/hallmark
+November 2026,8,agent-desktop,vercel-labs,Computer use CLI for AI agents,Rust,10671,16237,https://github.com/vercel-labs/agent-desktop
+November 2026,9,gpu-unlock,Zagitta,Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor…,C,10028,18018,https://github.com/Zagitta/gpu-unlock
+November 2026,10,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,9365,11620,https://github.com/heydamir/unslop
+November 2026,11,skills,mattpocock,Skills for Real Engineers. Straight from my .agents directory.,Shell,9330,317159,https://github.com/mattpocock/skills
+November 2026,12,DeepTutor,HKUDS,DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.,Python,9206,52238,https://github.com/HKUDS/DeepTutor
+November 2026,13,OpenMausBot,milind-soni,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,8464,17647,https://github.com/milind-soni/OpenMausBot
+November 2026,14,t3code,pingdotgg,(no description),TypeScript,8384,40825,https://github.com/pingdotgg/t3code
+November 2026,15,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Python,7758,13545,https://github.com/seedds/nxnative
+November 2026,16,jailbreaks,togg53192-cmd,LIST OF ALL MY JAILBREAKS,—,7701,12532,https://github.com/togg53192-cmd/jailbreaks
 November 2026,17,auto-ontology,NVIDIA,"Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables…",Python,6765,8394,https://github.com/NVIDIA/auto-ontology
 November 2026,18,claude-mem,thedotmack,"Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it…",TypeScript,6518,112469,https://github.com/thedotmack/claude-mem
 November 2026,19,ECC,affaan-m,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development…",JavaScript,6299,295361,https://github.com/affaan-m/ECC
 November 2026,20,Scrapling,D4Vinci,"🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy,…",Python,6217,97442,https://github.com/D4Vinci/Scrapling
 November 2026,21,superpowers,obra,An agentic skills framework & software development methodology that works.,Shell,5896,311062,https://github.com/obra/superpowers
 November 2026,22,thinkrail,JetBrains,"Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",TypeScript,5760,7134,https://github.com/JetBrains/thinkrail
-November 2026,23,ai-pose-gallery-zh,anhao,中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊,TypeScript,5431,6320,https://github.com/anhao/ai-pose-gallery-zh
-November 2026,24,Mika,wangzan101,An on-device AI agent for Android that operates apps and the web to get things done for you.,Kotlin,5402,7505,https://github.com/wangzan101/Mika
-November 2026,25,openidea,l0ng-ai,"The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app:…",TypeScript,5239,7584,https://github.com/l0ng-ai/openidea
+November 2026,23,Mika,wangzan101,An on-device AI agent for Android that operates apps and the web to get things done for you.,Kotlin,5580,7683,https://github.com/wangzan101/Mika
+November 2026,24,ai-pose-gallery-zh,anhao,中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊,TypeScript,5431,6407,https://github.com/anhao/ai-pose-gallery-zh
+November 2026,25,openidea,l0ng-ai,"The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app:…",TypeScript,5403,7748,https://github.com/l0ng-ai/openidea
 October 2026,1,rea,morluto,"Reverse engineer anything with agents, from app behavior down to native binaries.",TypeScript,229268,332113,https://github.com/morluto/rea
 October 2026,2,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,47272,47272,https://github.com/Gathin23/cleanyourtv
 October 2026,3,DeepInfer,deepseek-ai,"DeepInfer: High-performance, large-scale inference framework for DeepSeek models",Python,24581,24581,https://github.com/deepseek-ai/DeepInfer
