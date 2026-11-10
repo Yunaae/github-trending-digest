@@ -1,29 +1,29 @@
 Month,Rank,Project,Made by,What it does,Language,Stars gained this month,Total stars,Link
-November 2026,1,craft-anything,storytold,"Craft Anything: understand how any software works, and craft your own.",Rust,21298,23935,https://github.com/storytold/craft-anything
+November 2026,1,craft-anything,storytold,"Craft Anything: understand how any software works, and craft your own.",Rust,22943,25580,https://github.com/storytold/craft-anything
 November 2026,2,t3code,pingdotgg,(no description),TypeScript,20261,53673,https://github.com/pingdotgg/t3code
 November 2026,3,security-audit-skill,cloudflare,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,19755,67697,https://github.com/cloudflare/security-audit-skill
-November 2026,4,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,16842,55200,https://github.com/Gathin23/cleanyourtv
-November 2026,5,dsh-superagent-prototype,deepseek-ai,Towards a More Autonomous Agent System,TypeScript,16391,21639,https://github.com/deepseek-ai/dsh-superagent-prototype
-November 2026,6,dsh-Go,ccch1mneyyy,dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。,Dart,14114,17277,https://github.com/ccch1mneyyy/dsh-Go
+November 2026,4,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,16842,55780,https://github.com/Gathin23/cleanyourtv
+November 2026,5,dsh-superagent-prototype,deepseek-ai,Towards a More Autonomous Agent System,TypeScript,16828,22076,https://github.com/deepseek-ai/dsh-superagent-prototype
+November 2026,6,dsh-Go,ccch1mneyyy,dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。,Dart,15219,18382,https://github.com/ccch1mneyyy/dsh-Go
 November 2026,7,agent-desktop,vercel-labs,Computer use CLI for AI agents,Rust,13712,20221,https://github.com/vercel-labs/agent-desktop
-November 2026,8,impeccable,pbakaus,"The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI…",Rust,12017,100214,https://github.com/pbakaus/impeccable
-November 2026,9,hallmark,Nutlope,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,11675,51585,https://github.com/Nutlope/hallmark
-November 2026,10,skills,mattpocock,Skills for Real Engineers. Straight from my .agents directory.,Shell,11598,319427,https://github.com/mattpocock/skills
-November 2026,11,OpenMausBot,milind-soni,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,10269,19452,https://github.com/milind-soni/OpenMausBot
-November 2026,12,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,10227,12482,https://github.com/heydamir/unslop
-November 2026,13,gpu-unlock,Zagitta,Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor…,C,10028,18303,https://github.com/Zagitta/gpu-unlock
-November 2026,14,auto-ontology,NVIDIA,"Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables…",Python,9327,10918,https://github.com/NVIDIA/auto-ontology
-November 2026,15,DeepTutor,HKUDS,DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.,Python,9206,52238,https://github.com/HKUDS/DeepTutor
-November 2026,16,sherlock,sherlock-project,Hunt down social media accounts by username across social networks,Python,8427,106219,https://github.com/sherlock-project/sherlock
+November 2026,8,skills,mattpocock,Skills for Real Engineers. Straight from my .agents directory.,Shell,12580,320409,https://github.com/mattpocock/skills
+November 2026,9,impeccable,pbakaus,"The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI…",Rust,12017,100214,https://github.com/pbakaus/impeccable
+November 2026,10,hallmark,Nutlope,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,11675,51585,https://github.com/Nutlope/hallmark
+November 2026,11,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,11052,13307,https://github.com/heydamir/unslop
+November 2026,12,sherlock,sherlock-project,Hunt down social media accounts by username across social networks,Python,10814,108349,https://github.com/sherlock-project/sherlock
+November 2026,13,OpenMausBot,milind-soni,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,10269,19452,https://github.com/milind-soni/OpenMausBot
+November 2026,14,gpu-unlock,Zagitta,Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor…,C,10028,18493,https://github.com/Zagitta/gpu-unlock
+November 2026,15,auto-ontology,NVIDIA,"Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables…",Python,9327,10918,https://github.com/NVIDIA/auto-ontology
+November 2026,16,DeepTutor,HKUDS,DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.,Python,9206,52238,https://github.com/HKUDS/DeepTutor
 November 2026,17,Scrapling,D4Vinci,"🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy,…",Python,8342,100402,https://github.com/D4Vinci/Scrapling
 November 2026,18,claude-mem,thedotmack,"Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it…",TypeScript,8318,115284,https://github.com/thedotmack/claude-mem
-November 2026,19,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Python,7758,13985,https://github.com/seedds/nxnative
-November 2026,20,jailbreaks,togg53192-cmd,LIST OF ALL MY JAILBREAKS,—,7701,12532,https://github.com/togg53192-cmd/jailbreaks
-November 2026,21,ECC,affaan-m,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development…",JavaScript,6299,295361,https://github.com/affaan-m/ECC
-November 2026,22,superpowers,obra,An agentic skills framework & software development methodology that works.,Shell,5896,311062,https://github.com/obra/superpowers
-November 2026,23,Mika,wangzan101,An on-device AI agent for Android that operates apps and the web to get things done for you.,Kotlin,5769,7872,https://github.com/wangzan101/Mika
-November 2026,24,openidea,l0ng-ai,"The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app:…",TypeScript,5763,8108,https://github.com/l0ng-ai/openidea
-November 2026,25,thinkrail,JetBrains,"Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",TypeScript,5760,7134,https://github.com/JetBrains/thinkrail
+November 2026,19,HGhub,Minireel,YellowFruit third-party client,TypeScript,7839,7839,https://github.com/Minireel/HGhub
+November 2026,20,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Python,7758,14383,https://github.com/seedds/nxnative
+November 2026,21,jailbreaks,togg53192-cmd,LIST OF ALL MY JAILBREAKS,—,7701,12532,https://github.com/togg53192-cmd/jailbreaks
+November 2026,22,astryx,meta,An open source design system that's fully customizable and agent ready,TypeScript,7571,21694,https://github.com/meta/astryx
+November 2026,23,skills,anthropics,Public repository for Agent Skills,Python,6904,191847,https://github.com/anthropics/skills
+November 2026,24,ECC,affaan-m,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development…",JavaScript,6299,295361,https://github.com/affaan-m/ECC
+November 2026,25,openidea,l0ng-ai,"The IDE you know, rebuilt in Rust. IntelliJ IDEA–style keymap, tool windows and search-everywhere in a fast native app:…",TypeScript,6010,8355,https://github.com/l0ng-ai/openidea
 October 2026,1,rea,morluto,"Reverse engineer anything with agents, from app behavior down to native binaries.",TypeScript,229268,332113,https://github.com/morluto/rea
 October 2026,2,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,47272,47272,https://github.com/Gathin23/cleanyourtv
 October 2026,3,DeepInfer,deepseek-ai,"DeepInfer: High-performance, large-scale inference framework for DeepSeek models",Python,24581,24581,https://github.com/deepseek-ai/DeepInfer
