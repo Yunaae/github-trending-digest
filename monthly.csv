@@ -1,11 +1,11 @@
 Month,Rank,Project,Made by,What it does,Language,Stars gained this month,Total stars,Link
-November 2026,1,craft-anything,storytold,"Craft Anything: understand how any software works, and craft your own.",Rust,30718,33355,https://github.com/storytold/craft-anything
-November 2026,2,t3code,pingdotgg,(no description),TypeScript,20261,53673,https://github.com/pingdotgg/t3code
-November 2026,3,dsh-Go,ccch1mneyyy,dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。,Dart,20244,23407,https://github.com/ccch1mneyyy/dsh-Go
+November 2026,1,craft-anything,storytold,"Craft Anything: understand how any software works, and craft your own.",Rust,31818,34455,https://github.com/storytold/craft-anything
+November 2026,2,dsh-Go,ccch1mneyyy,dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。,Dart,21336,24499,https://github.com/ccch1mneyyy/dsh-Go
+November 2026,3,t3code,pingdotgg,(no description),TypeScript,20261,53673,https://github.com/pingdotgg/t3code
 November 2026,4,security-audit-skill,cloudflare,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,19755,67697,https://github.com/cloudflare/security-audit-skill
-November 2026,5,dsh-superagent-prototype,deepseek-ai,Towards a More Autonomous Agent System,TypeScript,17968,23216,https://github.com/deepseek-ai/dsh-superagent-prototype
+November 2026,5,dsh-superagent-prototype,deepseek-ai,Towards a More Autonomous Agent System,TypeScript,18204,23452,https://github.com/deepseek-ai/dsh-superagent-prototype
 November 2026,6,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,16842,58086,https://github.com/Gathin23/cleanyourtv
-November 2026,7,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,14108,16363,https://github.com/heydamir/unslop
+November 2026,7,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,14828,17083,https://github.com/heydamir/unslop
 November 2026,8,agent-desktop,vercel-labs,Computer use CLI for AI agents,Rust,13712,20221,https://github.com/vercel-labs/agent-desktop
 November 2026,9,skills,mattpocock,Skills for Real Engineers. Straight from my .agents directory.,Shell,12580,320409,https://github.com/mattpocock/skills
 November 2026,10,astryx,meta,An open source design system that's fully customizable and agent ready,TypeScript,12127,26045,https://github.com/meta/astryx
@@ -13,17 +13,17 @@ November 2026,11,impeccable,pbakaus,"The design vocabulary for your coding agent
 November 2026,12,hallmark,Nutlope,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,11675,51585,https://github.com/Nutlope/hallmark
 November 2026,13,sherlock,sherlock-project,Hunt down social media accounts by username across social networks,Python,10814,108349,https://github.com/sherlock-project/sherlock
 November 2026,14,OpenMausBot,milind-soni,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,10269,19452,https://github.com/milind-soni/OpenMausBot
-November 2026,15,gpu-unlock,Zagitta,Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor…,C,10028,19643,https://github.com/Zagitta/gpu-unlock
-November 2026,16,auto-ontology,NVIDIA,"Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables…",Python,9327,10918,https://github.com/NVIDIA/auto-ontology
-November 2026,17,DeepTutor,HKUDS,DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.,Python,9206,52238,https://github.com/HKUDS/DeepTutor
-November 2026,18,HGhub,Minireel,YellowFruit third-party client,TypeScript,8911,8911,https://github.com/Minireel/HGhub
-November 2026,19,agent_skills,janestreet,Agent skills,—,8786,8786,https://github.com/janestreet/agent_skills
+November 2026,15,gpu-unlock,Zagitta,Your GeForce runs AI at half speed. This fixes it for 20/30/40 series cards. Up to 2× FP16 / BF16 / TF32 tensor…,C,10028,19903,https://github.com/Zagitta/gpu-unlock
+November 2026,16,HGhub,Minireel,YellowFruit third-party client,TypeScript,9387,9387,https://github.com/Minireel/HGhub
+November 2026,17,agent_skills,janestreet,Agent skills,—,9370,9370,https://github.com/janestreet/agent_skills
+November 2026,18,auto-ontology,NVIDIA,"Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables…",Python,9327,10918,https://github.com/NVIDIA/auto-ontology
+November 2026,19,DeepTutor,HKUDS,DeepTutor: Lifelong Personalized Tutoring.https://deeptutor.info/.,Python,9206,52238,https://github.com/HKUDS/DeepTutor
 November 2026,20,Hookshot,NotRexed,A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake,C++,8392,8392,https://github.com/NotRexed/Hookshot
 November 2026,21,Scrapling,D4Vinci,"🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy,…",Python,8342,100402,https://github.com/D4Vinci/Scrapling
 November 2026,22,claude-mem,thedotmack,"Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it…",TypeScript,8318,115284,https://github.com/thedotmack/claude-mem
-November 2026,23,nxnative,seedds,"Switch games running natively on iPhone, iPad and Mac: an NSP folder becomes an unsigned IPA (NSO rewriter, Horizon HLE…",Python,7758,14704,https://github.com/seedds/nxnative
-November 2026,24,jailbreaks,togg53192-cmd,LIST OF ALL MY JAILBREAKS,—,7701,12532,https://github.com/togg53192-cmd/jailbreaks
-November 2026,25,GestaltX,huamidev,"An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",Swift,7682,7682,https://github.com/huamidev/GestaltX
+November 2026,23,kiri,libracoder,"A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",Rust,8153,8153,https://github.com/libracoder/kiri
+November 2026,24,GestaltX,huamidev,"An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",Swift,7830,7830,https://github.com/huamidev/GestaltX
+November 2026,25,misterdownloadmanager,anefzaoui,"misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for…",Rust,7768,10961,https://github.com/anefzaoui/misterdownloadmanager
 October 2026,1,rea,morluto,"Reverse engineer anything with agents, from app behavior down to native binaries.",TypeScript,229268,332113,https://github.com/morluto/rea
 October 2026,2,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,47272,47272,https://github.com/Gathin23/cleanyourtv
 October 2026,3,DeepInfer,deepseek-ai,"DeepInfer: High-performance, large-scale inference framework for DeepSeek models",Python,24581,24581,https://github.com/deepseek-ai/DeepInfer
