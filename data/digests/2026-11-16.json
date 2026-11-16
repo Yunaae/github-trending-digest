@@ -1,0 +1,195 @@
+[
+ {
+  "name": "meta/astryx",
+  "gain": 13501,
+  "stars": 29439,
+  "description": "An open source design system that's fully customizable and agent ready",
+  "language": "TypeScript"
+ },
+ {
+  "name": "storytold/craft-anything",
+  "gain": 12696,
+  "stars": 34455,
+  "description": "Craft Anything: understand how any software works, and craft your own.",
+  "language": "Rust",
+  "created_at": "2026-10-31"
+ },
+ {
+  "name": "sherlock-project/sherlock",
+  "gain": 10412,
+  "stars": 113000,
+  "description": "Hunt down social media accounts by username across social networks",
+  "language": "Python"
+ },
+ {
+  "name": "ccch1mneyyy/dsh-Go",
+  "gain": 9069,
+  "stars": 24499,
+  "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+  "language": "Dart",
+  "created_at": "2026-10-25"
+ },
+ {
+  "name": "huamidev/GestaltX",
+  "gain": 7830,
+  "stars": 7830,
+  "description": "An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device presets, backups.",
+  "language": "Swift",
+  "created_at": "2026-11-09"
+ },
+ {
+  "name": "anefzaoui/misterdownloadmanager",
+  "gain": 7768,
+  "stars": 10961,
+  "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+  "language": "Rust",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "Minireel/HGhub",
+  "gain": 6676,
+  "stars": 9387,
+  "description": "Plug-in media player",
+  "language": "Rust",
+  "created_at": "2026-11-03"
+ },
+ {
+  "name": "janestreet/agent_skills",
+  "gain": 6188,
+  "stars": 9370,
+  "description": "Agent skills",
+  "created_at": "2026-11-03"
+ },
+ {
+  "name": "libracoder/kiri",
+  "gain": 6123,
+  "stars": 8153,
+  "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+  "language": "Rust",
+  "created_at": "2026-11-02"
+ },
+ {
+  "name": "NotRexed/Hookshot",
+  "gain": 6093,
+  "stars": 8392,
+  "description": "A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 Remake",
+  "language": "C++",
+  "created_at": "2026-11-05"
+ },
+ {
+  "name": "anthropics/skills",
+  "gain": 6077,
+  "stars": 195823,
+  "description": "Public repository for Agent Skills",
+  "language": "Python"
+ },
+ {
+  "name": "GoogleChrome/modern-web-guidance-src",
+  "gain": 5692,
+  "stars": 7853,
+  "description": "Keep your coding agent up to date with the latest web best practices",
+  "language": "TypeScript"
+ },
+ {
+  "name": "JuneYaooo/rea-video",
+  "gain": 5594,
+  "stars": 9527,
+  "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
+  "language": "Python",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "heydamir/unslop",
+  "gain": 5463,
+  "stars": 17083,
+  "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+  "language": "JavaScript",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "google/elephant-goldfish-model",
+  "gain": 5060,
+  "stars": 20220,
+  "description": "Open-source plugin for designing and reviewing software with agents",
+  "language": "Python"
+ },
+ {
+  "name": "deepseek-ai/chat-demo",
+  "gain": 3883,
+  "stars": 3883,
+  "description": "Chat Demo",
+  "language": "TypeScript",
+  "created_at": "2026-11-12"
+ },
+ {
+  "name": "Gathin23/cleanyourtv",
+  "gain": 3821,
+  "stars": 58086,
+  "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+  "language": "Python",
+  "created_at": "2026-10-17"
+ },
+ {
+  "name": "Lee-xeo/Claude-Cage",
+  "gain": 3637,
+  "stars": 6009,
+  "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+  "language": "Go",
+  "created_at": "2026-10-31"
+ },
+ {
+  "name": "RoutineMiku/apkstart",
+  "gain": 3436,
+  "stars": 6183,
+  "description": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时",
+  "language": "JavaScript",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "zortos293/Lichii",
+  "gain": 3166,
+  "stars": 9461,
+  "description": "VERY experimental Nintendo Switch 2 emulator",
+  "language": "C++",
+  "created_at": "2026-10-31"
+ },
+ {
+  "name": "anomalyco/rune",
+  "gain": 2941,
+  "stars": 7279,
+  "description": "Rune: Native UI framework",
+  "language": "Rust",
+  "created_at": "2026-10-22"
+ },
+ {
+  "name": "qybaihe/bla",
+  "gain": 2605,
+  "stars": 5878,
+  "description": "🛡️ BLA (bla-agents / Blind LLM Agents) — Open-source Blue Defense MCP server & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA).",
+  "language": "TypeScript",
+  "created_at": "2026-10-25"
+ },
+ {
+  "name": "deepseek-ai/dsh-superagent-prototype",
+  "gain": 2412,
+  "stars": 23452,
+  "description": "Towards a More Autonomous Agent System",
+  "language": "TypeScript",
+  "created_at": "2026-10-31"
+ },
+ {
+  "name": "apex-compute/ANR",
+  "gain": 2386,
+  "stars": 2386,
+  "description": "Apex Neural Rendering (ANR) by Apex Compute",
+  "language": "C++",
+  "created_at": "2026-11-11"
+ },
+ {
+  "name": "tangerineturtle1/NX2navi",
+  "gain": 2292,
+  "stars": 4261,
+  "language": "C",
+  "created_at": "2026-11-07"
+ }
+]
