@@ -1,0 +1,194 @@
+[
+ {
+  "name": "ItsNotRexed/Leonida",
+  "gain": 23867,
+  "stars": 23867,
+  "description": "Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6",
+  "language": "Python",
+  "created_at": "2026-11-20"
+ },
+ {
+  "name": "elementalsouls/Claude-BugHunter",
+  "gain": 11894,
+  "stars": 19230,
+  "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+  "language": "Python"
+ },
+ {
+  "name": "storytold/craft-anything",
+  "gain": 8580,
+  "stars": 41935,
+  "description": "Craft Anything: understand how any software works, and craft your own.",
+  "language": "Rust",
+  "created_at": "2026-10-31"
+ },
+ {
+  "name": "erkamyaman/rust-anything",
+  "gain": 8577,
+  "stars": 8577,
+  "description": "Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.",
+  "language": "Rust",
+  "created_at": "2026-11-16"
+ },
+ {
+  "name": "obra/superpowers",
+  "gain": 8152,
+  "stars": 324810,
+  "description": "An agentic skills framework & software development methodology that works.",
+  "language": "Shell"
+ },
+ {
+  "name": "libracoder/kiri",
+  "gain": 7809,
+  "stars": 12586,
+  "description": "A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",
+  "language": "Rust",
+  "created_at": "2026-11-02"
+ },
+ {
+  "name": "ccch1mneyyy/dsh-Go",
+  "gain": 7273,
+  "stars": 30680,
+  "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+  "language": "Dart",
+  "created_at": "2026-10-25"
+ },
+ {
+  "name": "anefzaoui/misterdownloadmanager",
+  "gain": 7227,
+  "stars": 17203,
+  "description": "misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for Windows, Mac, and Linux",
+  "language": "Rust",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "dream-num/univer",
+  "gain": 6436,
+  "stars": 31424,
+  "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+  "language": "TypeScript"
+ },
+ {
+  "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+  "gain": 6014,
+  "stars": 6014,
+  "description": "Show the battery level of wireless mice, headsets, keyboards and controllers on the Windows 10/11 taskbar. Lightweight tray app, no vendor software needed. Supports Logitech, Razer, SteelSeries, Corsair, HyperX, Glorious, PS4/PS5 DualSense, Xbox and Bluetooth devices.",
+  "language": "C++",
+  "created_at": "2026-11-16"
+ },
+ {
+  "name": "mvanhorn/last30days-skill",
+  "gain": 5622,
+  "stars": 73305,
+  "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+  "language": "Python"
+ },
+ {
+  "name": "firecrawl/firecrawl",
+  "gain": 4850,
+  "stars": 207635,
+  "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+  "language": "TypeScript"
+ },
+ {
+  "name": "RoutineMiku/apkstart",
+  "gain": 4769,
+  "stars": 9433,
+  "description": "Windows 上的安卓应用运行器：双击 APK 即装，应用以独立窗口与桌面图标运行，自持 QEMU 运行时",
+  "language": "JavaScript",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "mdiri-ai/SoduWork",
+  "gain": 4386,
+  "stars": 7032,
+  "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
+  "language": "JavaScript",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "heydamir/unslop",
+  "gain": 4325,
+  "stars": 20688,
+  "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+  "language": "JavaScript",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "JuneYaooo/rea-video",
+  "gain": 3670,
+  "stars": 12570,
+  "description": "Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。",
+  "language": "Python",
+  "created_at": "2026-10-29"
+ },
+ {
+  "name": "deepseek-ai/chat-demo",
+  "gain": 3189,
+  "stars": 5339,
+  "description": "Chat Demo",
+  "language": "TypeScript",
+  "created_at": "2026-11-12"
+ },
+ {
+  "name": "ersinkoc/phonebox",
+  "gain": 2974,
+  "stars": 5351,
+  "description": "Turn an old Android phone into a customizable desk panel and touch control deck for Windows, Linux and macOS. 124 widgets and 30 templates for system stats, AI coding, media and automation, in 13 languages. USB or paired Wi-Fi. No cloud required.",
+  "language": "JavaScript",
+  "created_at": "2026-11-07"
+ },
+ {
+  "name": "EL4CTEO/fast-anything",
+  "gain": 2938,
+  "stars": 2938,
+  "description": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+  "language": "Rust",
+  "created_at": "2026-11-21"
+ },
+ {
+  "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+  "gain": 2763,
+  "stars": 2763,
+  "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+  "created_at": "2026-11-19"
+ },
+ {
+  "name": "Minireel/HGhub",
+  "gain": 2716,
+  "stars": 11627,
+  "description": "Plug-in media player",
+  "language": "Rust",
+  "created_at": "2026-11-03"
+ },
+ {
+  "name": "gylive/google-ultra",
+  "gain": 2662,
+  "stars": 2662,
+  "language": "Python",
+  "created_at": "2026-11-17"
+ },
+ {
+  "name": "janestreet/agent_skills",
+  "gain": 2406,
+  "stars": 11192,
+  "description": "Agent skills",
+  "created_at": "2026-11-03"
+ },
+ {
+  "name": "Lee-xeo/Claude-Cage",
+  "gain": 2386,
+  "stars": 8008,
+  "description": "Cage：为 Claude 特化的轻量化虚拟机，彻底杜绝网络泄露。多平台适配，支持多账号管理、远程部署、移动端操控。",
+  "language": "Go",
+  "created_at": "2026-10-31"
+ },
+ {
+  "name": "iamajmeena/neonclipping",
+  "gain": 2272,
+  "stars": 2272,
+  "description": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
+  "language": "Python",
+  "created_at": "2026-11-19"
+ }
+]
