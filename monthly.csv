@@ -1,29 +1,29 @@
 Month,Rank,Project,Made by,What it does,Language,Stars gained this month,Total stars,Link
-November 2026,1,craft-anything,storytold,"Craft Anything: understand how any software works, and craft your own.",Rust,40039,42676,https://github.com/storytold/craft-anything
+November 2026,1,craft-anything,storytold,"Craft Anything: understand how any software works, and craft your own.",Rust,40686,43323,https://github.com/storytold/craft-anything
 November 2026,2,dsh-Go,ccch1mneyyy,dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。,Dart,27517,30680,https://github.com/ccch1mneyyy/dsh-Go
 November 2026,3,Leonida,ItsNotRexed,Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6,Python,23867,23867,https://github.com/ItsNotRexed/Leonida
 November 2026,4,t3code,pingdotgg,(no description),TypeScript,20261,53673,https://github.com/pingdotgg/t3code
 November 2026,5,security-audit-skill,cloudflare,"A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",JavaScript,19755,67697,https://github.com/cloudflare/security-audit-skill
-November 2026,6,dsh-superagent-prototype,deepseek-ai,Towards a More Autonomous Agent System,TypeScript,19211,24459,https://github.com/deepseek-ai/dsh-superagent-prototype
-November 2026,7,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,18925,21180,https://github.com/heydamir/unslop
+November 2026,6,unslop,heydamir,"A Claude skill that turns vibecoded, AI-looking UI into a designed interface",JavaScript,19338,21593,https://github.com/heydamir/unslop
+November 2026,7,dsh-superagent-prototype,deepseek-ai,Towards a More Autonomous Agent System,TypeScript,19320,24568,https://github.com/deepseek-ai/dsh-superagent-prototype
 November 2026,8,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,16842,58086,https://github.com/Gathin23/cleanyourtv
-November 2026,9,superpowers,obra,An agentic skills framework & software development methodology that works.,Shell,16033,325729,https://github.com/obra/superpowers
+November 2026,9,superpowers,obra,An agentic skills framework & software development methodology that works.,Shell,16679,326375,https://github.com/obra/superpowers
 November 2026,10,ECC,affaan-m,"The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development…",JavaScript,15859,306164,https://github.com/affaan-m/ECC
-November 2026,11,astryx,meta,An open source design system that's fully customizable and agent ready,TypeScript,15316,29439,https://github.com/meta/astryx
-November 2026,12,misterdownloadmanager,anefzaoui,"misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for…",Rust,14527,17720,https://github.com/anefzaoui/misterdownloadmanager
-November 2026,13,Claude-BugHunter,elementalsouls,"A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681…",Python,13727,20990,https://github.com/elementalsouls/Claude-BugHunter
-November 2026,14,agent-desktop,vercel-labs,Computer use CLI for AI agents,Rust,13712,20221,https://github.com/vercel-labs/agent-desktop
-November 2026,15,sherlock,sherlock-project,Hunt down social media accounts by username across social networks,Python,13649,113000,https://github.com/sherlock-project/sherlock
-November 2026,16,diagram-design,cathrynlavery,"Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types.…",HTML,13515,71697,https://github.com/cathrynlavery/diagram-design
-November 2026,17,kiri,libracoder,"A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",Rust,12885,12885,https://github.com/libracoder/kiri
+November 2026,11,Claude-BugHunter,elementalsouls,"A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681…",Python,15371,22547,https://github.com/elementalsouls/Claude-BugHunter
+November 2026,12,astryx,meta,An open source design system that's fully customizable and agent ready,TypeScript,15316,29439,https://github.com/meta/astryx
+November 2026,13,misterdownloadmanager,anefzaoui,"misterdownloadmanager: The ultimate open-source, clean-room download manager written from scratch in pure Rust for…",Rust,14899,18092,https://github.com/anefzaoui/misterdownloadmanager
+November 2026,14,diagram-design,cathrynlavery,"Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types.…",HTML,14549,72731,https://github.com/cathrynlavery/diagram-design
+November 2026,15,agent-desktop,vercel-labs,Computer use CLI for AI agents,Rust,13712,20221,https://github.com/vercel-labs/agent-desktop
+November 2026,16,sherlock,sherlock-project,Hunt down social media accounts by username across social networks,Python,13649,113000,https://github.com/sherlock-project/sherlock
+November 2026,17,kiri,libracoder,"A small, fast container runtime for macOS, Windows and Linux with free Ngrok alternative",Rust,13273,13273,https://github.com/libracoder/kiri
 November 2026,18,skills,mattpocock,Skills for Real Engineers. Straight from my .agents directory.,Shell,12580,320409,https://github.com/mattpocock/skills
-November 2026,19,impeccable,pbakaus,"The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI…",Rust,12017,100214,https://github.com/pbakaus/impeccable
-November 2026,20,HGhub,Minireel,Plug-in media player,Rust,11751,11751,https://github.com/Minireel/HGhub
-November 2026,21,hallmark,Nutlope,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,11675,51585,https://github.com/Nutlope/hallmark
-November 2026,22,agent_skills,janestreet,Agent skills,—,11552,11552,https://github.com/janestreet/agent_skills
-November 2026,23,skills,anthropics,Public repository for Agent Skills,Python,10880,195823,https://github.com/anthropics/skills
-November 2026,24,rea-video,JuneYaooo,"Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open…",Python,10368,12949,https://github.com/JuneYaooo/rea-video
-November 2026,25,OpenMausBot,milind-soni,Open-source Grok Bot alternative with a virtual machine that bots can use,TypeScript,10269,19452,https://github.com/milind-soni/OpenMausBot
+November 2026,19,VIctory,Marvisak,An attempt at running GTA VI on PC,Rust,12280,12280,https://github.com/Marvisak/VIctory
+November 2026,20,impeccable,pbakaus,"The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI…",Rust,12017,100214,https://github.com/pbakaus/impeccable
+November 2026,21,HGhub,Minireel,Plug-in media player,Rust,11912,11912,https://github.com/Minireel/HGhub
+November 2026,22,agent_skills,janestreet,Agent skills,—,11778,11778,https://github.com/janestreet/agent_skills
+November 2026,23,hallmark,Nutlope,"Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",CSS,11675,51585,https://github.com/Nutlope/hallmark
+November 2026,24,skills,anthropics,Public repository for Agent Skills,Python,10880,195823,https://github.com/anthropics/skills
+November 2026,25,rea-video,JuneYaooo,"Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open…",Python,10718,13299,https://github.com/JuneYaooo/rea-video
 October 2026,1,rea,morluto,"Reverse engineer anything with agents, from app behavior down to native binaries.",TypeScript,229268,332113,https://github.com/morluto/rea
 October 2026,2,cleanyourtv,Gathin23,Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.,Python,47272,47272,https://github.com/Gathin23/cleanyourtv
 October 2026,3,DeepInfer,deepseek-ai,"DeepInfer: High-performance, large-scale inference framework for DeepSeek models",Python,24581,24581,https://github.com/deepseek-ai/DeepInfer
